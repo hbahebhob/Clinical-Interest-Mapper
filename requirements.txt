@@ -3,4 +3,4 @@ openai
 requests
 python-dotenv
 trafilatura
-BeautifulSoup
+beautifulsoup4

@@ -1,0 +1,4700 @@
+[
+  {
+    "specialty": "Allergy",
+    "sub_specialties": [
+      {
+        "name": "General Allergy & Immunology",
+        "clinical_interests": [
+          "General Allergy & Immunology",
+          "Disorders Of The Immune System",
+          "Immune Deficiencies",
+          "Primary Immunodeficiency",
+          "Drug Allergy",
+          "Drug Desensitization"
+        ]
+      },
+      {
+        "name": "Respiratory Allergies",
+        "clinical_interests": [
+          "Sinusitis",
+          "Grass Allergy",
+          "Allergic Rhinitis",
+          "Respiratory Allergies",
+          "Chronic Intractable Allergic Rhinosinusitis",
+          "Asthma"
+        ]
+      },
+      {
+        "name": "Skin Allergies",
+        "clinical_interests": [
+          "Eczema",
+          "Atopic Dermatitis",
+          "Urticaria (Hives)",
+          "Angioedema",
+          "Skin Allergy"
+        ]
+      },
+      {
+        "name": "Food and Insect Allergies",
+        "clinical_interests": [
+          "Food Allergy",
+          "Insect Allergies"
+        ]
+      },
+      {
+        "name": "Rheumatic and Immunologic Diseases",
+        "clinical_interests": [
+          "Rheumatic Disease",
+          "Rheumatoid Arthritis",
+          "Vasculitis",
+          "Connective Tissue Disorders",
+          "Sjogren Syndrome",
+          "Myositis",
+          "Scleroderma",
+          "Psoriatic Arthritis",
+          "Sarcoidosis",
+          "Polymyalgia Rheumatica",
+          "Ankylosing Spondylitis",
+          "Gout",
+          "Fibromyalgia"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Anesthesia",
+    "sub_specialties": [
+      {
+        "name": "Addiction medicine",
+        "clinical_interests": [
+          "Addiction medicine"
+        ]
+      },
+      {
+        "name": "Critical Care Medicine",
+        "clinical_interests": [
+          "Intensive care medicine",
+          "Post-operative pulmonary complications following emergency laparotomy",
+          "Peri-operative ventilatory strategies",
+          "Pulmonary medicine"
+        ]
+      },
+      {
+        "name": "Pain Medicine",
+        "clinical_interests": [
+          "Acute pain management",
+          "Chronic pain management",
+          "Chronic neck pain",
+          "Muscle pain",
+          "Limb pain",
+          "Lower back pain",
+          "Spinal stenosis post laminectomy",
+          "Injection for back pain",
+          "Spinal and joint injections",
+          "Chronic migraines",
+          "Chronic abdominal pain",
+          "Facial pain",
+          "Cryotherapy",
+          "Central neural blocks",
+          "Intra-articular injections",
+          "Botox injections",
+          "Insertion of spinal cord stimulators",
+          "Spinal catheters",
+          "Ultrasound-guided interventional pain treatments",
+          "Local infiltration of steroid",
+          "Implanted pump refill",
+          "Trigger point injections",
+          "Cancer pain"
+        ]
+      },
+      {
+        "name": "Pediatric anesthesiology",
+        "clinical_interests": [
+          "Pediatric anesthesiology"
+        ]
+      },
+      {
+        "name": "Infectious Diseases",
+        "clinical_interests": [
+          "COVID-19"
+        ]
+      },
+      {
+        "name": "Adult Anesthesiology",
+        "clinical_interests": [
+          "General Anesthesia for Surgery",
+          "Regional Anesthesia Techniques",
+          "Perioperative Pain Management",
+          "Anesthesia for Complex Surgeries"
+        ]
+      },
+      {
+        "name": "Surgical Critical Care",
+        "clinical_interests": [
+          "Management of Postoperative Complications",
+          "Sepsis and Septic Shock Care",
+          "Trauma Surgery Support",
+          "Airway Management"
+        ]
+      },
+      {
+        "name": "Pediatric Anesthesiology",
+        "clinical_interests": [
+          "Neonatal Anesthesia",
+          "Management of Pediatric Pain",
+          "Anesthesia for Congenital Defects Surgery"
+        ]
+      },
+      {
+        "name": "Pain Management",
+        "clinical_interests": [
+          "Chronic Pain Treatment",
+          "Interventional Pain Management",
+          "Spinal Cord Stimulation",
+          "Nerve Block Procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Audiology",
+    "sub_specialties": [
+      {
+        "name": "General Audiology",
+        "clinical_interests": [
+          "Hearing loss",
+          "Presbycusis",
+          "Hyperacusis",
+          "Noise-Induced Hearing Loss",
+          "Otosclerosis",
+          "Audiometry",
+          "Auditory processing disorder (including Central Auditory Processing Disorder)",
+          "Auditory neuropathy and Ototoxicity",
+          "Sudden Sensorineural Hearing Loss (SSNHL)",
+          "Detection of deafness"
+        ]
+      },
+      {
+        "name": "Hearing Devices and Implants",
+        "clinical_interests": [
+          "Bone conduction implants",
+          "Cochlear implants",
+          "Hearing aids",
+          "Middle ear implants"
+        ]
+      },
+      {
+        "name": "Vestibular and Balance Disorders",
+        "clinical_interests": [
+          "Balance disorders (including Benign paroxysmal vertigo and Balance)",
+          "Dizziness",
+          "Meniere's disease",
+          "Migraine-related vertigo/vestibular migraine",
+          "Vestibular Rehabilitation Therapy (VRT)"
+        ]
+      },
+      {
+        "name": "Pediatric Audiology",
+        "clinical_interests": [
+          "Child deafness",
+          "Speech and language delay",
+          "General Pediatric Audiology"
+        ]
+      },
+      {
+        "name": "Otologic Diseases",
+        "clinical_interests": [
+          "Auto-immune inner ear disease",
+          "Eustachian Tube Dysfunction",
+          "Ear Infections (Otitis Media)",
+          "Acoustic Neuroma (Vestibular Schwannoma)",
+          "Tinnitus"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "BARIATRIC",
+    "sub_specialties": [
+      {
+        "name": "Primary Bariatric Procedures",
+        "clinical_interests": [
+          "Gastric Bypass",
+          "Sleeve Gastrectomy",
+          "Roux-en-Y Gastric Bypass (RYGB)",
+          "Laparoscopic Adjustable Gastric Band (LAGB)",
+          "Biliopancreatic Diversion (BPD)"
+        ]
+      },
+      {
+        "name": "Laparoscopic and Minimally Invasive Techniques",
+        "clinical_interests": [
+          "Advanced Laparoscopic Surgery",
+          "Laparoscopic Bariatric Surgeries",
+          "Minimally Invasive Surgery",
+          "Robotic Surgery",
+          "Laparoscopic Cholecystectomy"
+        ]
+      },
+      {
+        "name": "Post-Bariatric Surgery Care",
+        "clinical_interests": [
+          "Ingestive Behavior Analysis Post-Bariatric Surgery",
+          "Obesity and Metabolic Disorders"
+        ]
+      },
+      {
+        "name": "Related GI and General Surgery",
+        "clinical_interests": [
+          "Benign Upper GI Surgery",
+          "Reflux Surgeries",
+          "Colon & Rectal Surgery",
+          "General Surgery",
+          "Hernia Problems/Surgery and Treatments"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Bariatric Surgery & General Surgery",
+    "sub_specialties": [
+      {
+        "name": "Colorectal Surgery",
+        "clinical_interests": [
+          "Colorectal Cancer Surgery",
+          "Inflammatory Bowel Disease (IBD) Surgery",
+          "Benign Colorectal Conditions",
+          "Diverticular Disease Surgery",
+          "Pelvic Floor and Functional Colorectal Disorders",
+          "Advanced and Specialized Techniques"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Cardiology",
+    "sub_specialties": [
+      {
+        "name": "Coronary Artery Disease (CAD)",
+        "clinical_interests": [
+          "Acute Coronary Syndrome (ACS)",
+          "Angina Pectoris",
+          "Atherosclerosis",
+          "Carotid Artery Disease",
+          "Coronary Angiography",
+          "Coronary Angioplasty and Stenting (PCI)",
+          "Myocardial Infarction",
+          "STEMI/NSTEMI Interventions",
+          "Treatment of Acute and Chronic Limb Ischemia",
+          "Treatment of Cardiogenic Shock (Right and Left Ventricular Impella)"
+        ]
+      },
+      {
+        "name": "Heart Failure and Cardiomyopathies",
+        "clinical_interests": [
+          "Cardiac Amyloidosis",
+          "Cardiomyopathies (including Dilated Cardiomyopathy, Hypertrophic Cardiomyopathy)",
+          "Heart Failure (including Advanced Heart Failure, Chronic Heart Failure)",
+          "Cardiac Resynchronization Therapy for Symptomatic Heart Failure",
+          "Impella",
+          "Left Ventricular Assist Devices (LVADs)",
+          "Sudden Cardiac Death / Sudden Cardiac Arrest (SCD/SCA)",
+          "Congestive Heart Failure (CHF)",
+          "Cardiovascular Function in Chemotherapy Patients",
+          "Heart Block"
+        ]
+      },
+      {
+        "name": "Structural Heart Disease",
+        "clinical_interests": [
+          "Cardiac Sarcoidosis",
+          "Valvular Heart Disease (including Valvuloplasties of the Aortic and Mitral Valves)",
+          "Transcatheter Aortic Valve Implantations (TAVI)",
+          "Valve Replacement Procedures (including TAVR)",
+          "Endocarditis"
+        ]
+      },
+      {
+        "name": "Interventional Cardiology",
+        "clinical_interests": [
+          "Complex Endovascular Interventions (e.g., Pedal and Antegrade Access, Thrombectomy, Atherectomy, Limb Salvage, Carotid/Subclavian Interventions)",
+          "Complex High-Risk Interventional Coronary Procedures (CHIP)",
+          "Invasive Cardiology and Peripheral Angiography",
+          "Interventional Echocardiography",
+          "Rotablation Atherectomy",
+          "Intravascular Stenting",
+          "Drug-Coated Balloons in Coronary and Peripheral Interventions",
+          "Percutaneous Coronary Interventions"
+        ]
+      },
+      {
+        "name": "Vascular Medicine",
+        "clinical_interests": [
+          "Arterial Aneurysms",
+          "Deep Vein Thrombosis (DVT)",
+          "Peripheral Artery Disease (PAD)",
+          "Venous Insufficiency",
+          "Varicose Veins",
+          "Pulmonary Embolism Response Team / Large Bore Aspiration / Mechanical Thrombectomy"
+        ]
+      },
+      {
+        "name": "Electrophysiology",
+        "clinical_interests": [
+          "Cardiac Arrhythmias",
+          "Cardiac Electrophysiology Studies",
+          "Cardiac Ablation",
+          "Pacemaker Placement and Management",
+          "Implantable Cardioverter Defibrillators (ICDs)",
+          "Supraventricular Tachycardia (SVT)",
+          "Ventricular Tachycardia / Ventricular Fibrillation (VT/VF)"
+        ]
+      },
+      {
+        "name": "Imaging and Diagnostics",
+        "clinical_interests": [
+          "Advanced Echo Techniques (e.g., Speckle Tracking, 3D TTE, 3D TEE)",
+          "Echocardiography",
+          "Nuclear Cardiology",
+          "Cardiac MRI",
+          "Cardiac CT",
+          "Pressure Wire Assessment of Coronary Stenosis",
+          "Intravascular Coronary Imaging Techniques",
+          "Transoesophageal Echo"
+        ]
+      },
+      {
+        "name": "Other",
+        "clinical_interests": [
+          "Antibiotic Therapy",
+          "Genetic Heart Defects",
+          "Geriatric Cardiology",
+          "Palpitations",
+          "Syncope and Fainting",
+          "Sleep Apnoea",
+          "Long QT Syndrome",
+          "Metabolic Medicine",
+          "Natural and Exercise Medicine"
+        ]
+      },
+      {
+        "name": "Cardiology",
+        "clinical_interests": [
+          "Coronary Artery Disease (CAD)",
+          "Electrophysiology",
+          "Heart Failure And Cardiomyopathies",
+          "Imaging And Diagnostics",
+          "Interventional Cardiology",
+          "Structural Heart Disease",
+          "Vascular Medicine"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Cardiothoracic Surgery",
+    "sub_specialties": [
+      {
+        "name": "Cardiothoracic Surgery",
+        "clinical_interests": [
+          "Adult heart and lung transplantation",
+          "Cardiothoracic surgery",
+          "Heart bypass surgery",
+          "Neonatal cardiac surgery",
+          "Pediatric cardiothoracic surgery",
+          "Pediatric heart transplantation",
+          "Pediatric mechanical circulatory support",
+          "Cardiac Surgery",
+          "Diagnostic Procedures"
+        ]
+      },
+      {
+        "name": "Aortic Surgery",
+        "clinical_interests": [
+          "Aortic aneurysms and dissections",
+          "Aortic dissection",
+          "Aortic root disorders",
+          "Aortic root surgery",
+          "Aortic surgery",
+          "Thoracic aortic disease"
+        ]
+      },
+      {
+        "name": "Valvular Surgery",
+        "clinical_interests": [
+          "Aortic valve disease",
+          "Aortic valve replacement",
+          "Mitral valve disease",
+          "Mitral valve prolapse",
+          "Minimally invasive cardiac valve surgeries",
+          "Pulmonary valve surgery",
+          "Transcatheter aortic valve interventions",
+          "Transcatheter mitral valve interventions",
+          "Valvular heart disease (including mitral valve prolapse, aortic valve disease)"
+        ]
+      },
+      {
+        "name": "Coronary Artery Disease and Surgery",
+        "clinical_interests": [
+          "CABG (Coronary artery bypass grafting)",
+          "Coronary artery disease",
+          "Heart diseases"
+        ]
+      },
+      {
+        "name": "Cardiac Conditions and Procedures",
+        "clinical_interests": [
+          "Cardiac tamponade",
+          "Cardiac tumors",
+          "Heart failure",
+          "Mechanical circulatory assistance",
+          "Surgery for atrial fibrillation",
+          "Surgery for endocarditis"
+        ]
+      },
+      {
+        "name": "Congenital Heart Surgery",
+        "clinical_interests": [
+          "Congenital cardiac surgery",
+          "Congenital chest deformities",
+          "Congenital heart defects",
+          "Complex neonatal heart surgery"
+        ]
+      },
+      {
+        "name": "Thoracic Surgery",
+        "clinical_interests": [
+          "Thoracic surgery",
+          "Thoracotomy",
+          "Robotic thoracic surgery",
+          "Minimally invasive thoracic surgery",
+          "Minimally invasive video-assisted thoracoscopic surgery (VATS)",
+          "Noncardiac thoracic surgery"
+        ]
+      },
+      {
+        "name": "Thoracic Oncology",
+        "clinical_interests": [
+          "Lung cancer surgery",
+          "Mediastinal masses",
+          "Mediastinal pathologies",
+          "Mediastinal tumors",
+          "Thoracic benign and malignant conditions",
+          "Thoracic tumors or masses"
+        ]
+      },
+      {
+        "name": "Esophageal Surgery",
+        "clinical_interests": [
+          "Benign and malignant diseases of the esophagus",
+          "Esophageal cancer",
+          "Esophageal surgery",
+          "Esophagectomies",
+          "Hiatal hernia and gastroesophageal reflux disease (GERD)"
+        ]
+      },
+      {
+        "name": "Pulmonary and Airway Surgery",
+        "clinical_interests": [
+          "Lung emphysema",
+          "Lung mass",
+          "Lung resections",
+          "Major airway problems; stents, resection, and reconstruction",
+          "Pleural effusion",
+          "Pneumothorax",
+          "Tracheal disorders",
+          "Tracheoplasty procedures",
+          "Widened mediastinum"
+        ]
+      },
+      {
+        "name": "Thoracic Diagnostics and Procedures",
+        "clinical_interests": [
+          "EBUS (Endobronchial ultrasound)",
+          "Fiberoptic and navigational bronchoscopy",
+          "Mediastinoscopy"
+        ]
+      },
+      {
+        "name": "Chest Wall Surgery",
+        "clinical_interests": [
+          "Chest wall masses",
+          "Chest wall resection and reconstruction",
+          "Chest wall tumors"
+        ]
+      },
+      {
+        "name": "rauma and Emergency Thoracic Surgery",
+        "clinical_interests": [
+          "Thoracic trauma"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Cardiothoracic Surgery & Pediatric Surgery",
+    "sub_specialties": [
+      {
+        "name": "Cardiothoracic Surgery & Pediatric Surgery",
+        "clinical_interests": [
+          "Thoracic Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Chest Medicine",
+    "sub_specialties": [
+      {
+        "name": "Infectious Diseases",
+        "clinical_interests": [
+          "Tuberculosis Management",
+          "Pneumonia and Respiratory Infections"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Dermatology",
+    "sub_specialties": [
+      {
+        "name": "General Dermatology",
+        "clinical_interests": [
+          "Acne",
+          "Alopecia",
+          "Hyperhidrosis",
+          "Eczema",
+          "Hair and nail disease",
+          "Inflammatory dermatoses",
+          "Mole",
+          "Leprosy",
+          "Pigmented lesions",
+          "Nail disorders",
+          "Pediatric dermatology",
+          "Skin allergies",
+          "Skin biopsies",
+          "Skin surgery",
+          "Actinic keratosis",
+          "Sun allergy",
+          "Warts"
+        ]
+      },
+      {
+        "name": "Cosmetic Dermatology",
+        "clinical_interests": [
+          "Aesthetic dermatology",
+          "Anti-aging treatment",
+          "Anti-rosacea treatment",
+          "Botox",
+          "Cosmetic dermatology",
+          "Cosmetic surgery",
+          "Fillers",
+          "Laser therapy",
+          "Laser treatments"
+        ]
+      },
+      {
+        "name": "Dermatological Oncology",
+        "clinical_interests": [
+          "Dermatological oncology",
+          "Evaluation and treatment of skin cancer",
+          "Basal cell carcinoma",
+          "Benign tumor",
+          "Carcinoma in situ of skin",
+          "Familial atypical multiple mole melanoma syndrome",
+          "Giant congenital melanocytic nevus",
+          "Melanoma",
+          "Neurocutaneous melanosis"
+        ]
+      },
+      {
+        "name": "Dermatologic Surgery",
+        "clinical_interests": [
+          "Cutaneous laser surgery",
+          "Dermatologic surgery",
+          "Laser therapy",
+          "Mohs micrographic surgery",
+          "Surgical removal of tumors",
+          "Venous disease"
+        ]
+      },
+      {
+        "name": "Dermatoimmunology",
+        "clinical_interests": [
+          "Allergy",
+          "Atopic dermatitis (eczema)",
+          "Autoimmune diseases",
+          "Psoriasis",
+          "Vitiligo"
+        ]
+      },
+      {
+        "name": "Dermatology",
+        "clinical_interests": [
+          "Procedural Dermatology",
+          "Pediatric Dermatology",
+          "Aesthetic Dermatology",
+          "Congenital Dermatologic Syndromes",
+          "Oncology"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Endocrinology",
+    "sub_specialties": [
+      {
+        "name": "Endocrinology",
+        "clinical_interests": [
+          "Thyroid Disorders",
+          "Parathyroid Disorders",
+          "Adrenal Disorders",
+          "Pituitary Disorders",
+          "Reproductive Endocrinology",
+          "Metabolic Disorders",
+          "Bone And Mineral Metabolism Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "ENT",
+    "sub_specialties": [
+      {
+        "name": "Otology/Neurotology",
+        "clinical_interests": [
+          "Acoustic neuromas",
+          "Auditory neuropathy spectrum disorder",
+          "Balance disorders",
+          "Chronic ear disease",
+          "Chronic ear infections",
+          "Cochlear implantation",
+          "Ear disease in children",
+          "Ear eustachian tube disorders",
+          "Hearing and balance disorders",
+          "Hearing loss",
+          "Hyperacusis & tinnitus",
+          "Implantable hearing devices",
+          "Lateral skull base surgery (acoustic neuroma and other cerebellopontine angle tumors)",
+          "Meniere's disease",
+          "Middle ear implant",
+          "Middle ear/mastoid otology",
+          "Microtia and atresia surgery",
+          "Neurotology",
+          "Otology / neurotology",
+          "Otosclerosis",
+          "Tinnitus",
+          "Tympanoplasty",
+          "Vertigo"
+        ]
+      },
+      {
+        "name": "Rhinology/Sinus Surgery",
+        "clinical_interests": [
+          "Allergic rhinitis",
+          "Balloon sinuplasty",
+          "Benign tumors of the nose and sinuses",
+          "Chronic rhinosinusitis",
+          "Deviated septum",
+          "Endoscopic sinus and skull base surgery",
+          "Endoscopic sinus surgery",
+          "Epistaxis",
+          "Functional endoscopic sinus surgery",
+          "Image guided endoscopic sinus surgery",
+          "Inverted papilloma",
+          "Nasal allergies",
+          "Nasal and sinus disorders",
+          "Nasal polyposis",
+          "Nasal polyps",
+          "Nasal reconstruction",
+          "Nasal/sinus tumors",
+          "Odontogenic sinusitis",
+          "Repair of CSF leaks",
+          "Rhinology",
+          "Rhinology & paranasal sinus disease",
+          "Sinusitis",
+          "Skull base tumors (including acoustic neuroma and paraganglioma)"
+        ]
+      },
+      {
+        "name": "Pediatric Otolaryngology",
+        "clinical_interests": [
+          "Children with problems/difficulties processing auditory information",
+          "Children with special educational needs",
+          "Pediatric airway disorders",
+          "Pediatric ear disease",
+          "Pediatric hearing loss",
+          "Pediatric otolaryngology",
+          "Pediatric voice disorders"
+        ]
+      },
+      {
+        "name": "Facial Plastic and Reconstructive Surgery",
+        "clinical_interests": [
+          "Aesthetic/cosmetic plastic surgery",
+          "Cosmetic surgery",
+          "Dental implantology",
+          "Eye lifts and facelifts",
+          "Facial fractures",
+          "Facial paralysis",
+          "Facial plastic and reconstructive surgery",
+          "Facial plastic surgery",
+          "Facial reanimation surgery",
+          "Facial trauma",
+          "Maxillofacial deformities",
+          "Nasal reconstruction",
+          "Orthognathic surgery",
+          "Reconstructive surgery",
+          "Septorhinoplasty",
+          "Temporomandibular joint (TMJ) disorders"
+        ]
+      },
+      {
+        "name": "Head and Neck Surgery/Oncology",
+        "clinical_interests": [
+          "Arteriovenous malformations of the nose",
+          "Cancer care",
+          "Cervical dysplasia",
+          "Gamma knife radiosurgery",
+          "Head & neck plastic surgery",
+          "Head and neck free flap reconstruction",
+          "Head and neck oncology",
+          "Head and neck surgery",
+          "Head and neck trauma",
+          "Head and neck tumors",
+          "Laryngeal tumors",
+          "Laryngology",
+          "Oropharyngeal cancer",
+          "Oral and maxillofacial infections",
+          "Oral and maxillofacial oncology",
+          "Orbital fractures",
+          "Pituitary gland adenoma",
+          "Salivary and parotid surgery",
+          "Thyroid and parathyroid disorders & surgery",
+          "Tongue cancers",
+          "Tumors"
+        ]
+      },
+      {
+        "name": "General Otolaryngology",
+        "clinical_interests": [
+          "Nasal reconstruction",
+          "Phoniatrics",
+          "Sleep apnea",
+          "Smell disorders",
+          "Snoring",
+          "Taste and smell disorders",
+          "Tonsillectomy and adenoidectomy",
+          "Tonsillitis",
+          "Tonsils",
+          "Voice and swallowing disorders"
+        ]
+      },
+      {
+        "name": "Rhinology",
+        "clinical_interests": [
+          "Allergic rhinitis",
+          "Balloon sinuplasty",
+          "Benign tumors of the nose and sinuses",
+          "Chronic rhinosinusitis",
+          "Deviated septum",
+          "Endoscopic sinus and skull base surgery",
+          "Endoscopic sinus surgery",
+          "Epistaxis",
+          "Functional endoscopic sinus surgery",
+          "Image guided endoscopic sinus surgery",
+          "Inverted papilloma",
+          "Nasal allergies",
+          "Nasal and sinus disorders",
+          "Nasal polyposis",
+          "Nasal polyps",
+          "Nasal reconstruction",
+          "Nasal/sinus tumors",
+          "Odontogenic sinusitis",
+          "Repair of CSF leaks",
+          "Rhinology",
+          "Rhinology & paranasal sinus disease",
+          "Sinusitis",
+          "Skull base tumors (including acoustic neuroma and paraganglioma)"
+        ]
+      },
+      {
+        "name": "Laryngology",
+        "clinical_interests": [
+          "Voice Disorder Therapy",
+          "Swallowing Disorder",
+          "Laryngeal Surgery",
+          "Vocal Cord Polyp Removal",
+          "Tracheal Stenosis",
+          "Phonosurgery"
+        ]
+      },
+      {
+        "name": "Pediatric ENT",
+        "clinical_interests": [
+          "Children with problems/difficulties processing auditory information",
+          "Children with special educational needs",
+          "Pediatric airway disorders",
+          "Pediatric ear disease",
+          "Pediatric hearing loss",
+          "Pediatric otolaryngology",
+          "Pediatric voice disorders"
+        ]
+      },
+      {
+        "name": "Head And Neck Surgery",
+        "clinical_interests": [
+          "Arteriovenous malformations of the nose",
+          "Cancer care",
+          "Gamma knife radiosurgery",
+          "Head & neck plastic surgery",
+          "Head and neck reconstruction",
+          "Head and neck oncology",
+          "Head and neck surgery",
+          "Head and neck trauma",
+          "Head and neck tumors",
+          "Laryngeal tumors",
+          "Laryngology",
+          "Oropharyngeal cancer",
+          "Oral and maxillofacial infections",
+          "Oral and maxillofacial oncology",
+          "Orbital fractures",
+          "Pituitary gland adenoma",
+          "Salivary and parotid surgery",
+          "Thyroid and parathyroid disorders & surgery",
+          "Tongue cancers"
+        ]
+      },
+      {
+        "name": "Facial Plastic And Reconstructive Surgery",
+        "clinical_interests": [
+          "Aesthetic/cosmetic plastic surgery",
+          "Dental implantology",
+          "Eye lifts and facelifts",
+          "Facial fractures",
+          "Facial paralysis",
+          "Facial plastic and reconstructive surgery",
+          "Facial reanimation surgery",
+          "Facial trauma",
+          "Maxillofacial deformities",
+          "Nasal reconstruction",
+          "Orthognathic surgery",
+          "Reconstructive surgery",
+          "Septorhinoplasty",
+          "Temporomandibular joint (TMJ) disorders"
+        ]
+      },
+      {
+        "name": "Audiology",
+        "clinical_interests": [
+          "Auditory Evaluation And Hearing Loss",
+          "Pediatric Audiology",
+          "Vestibular Disorders",
+          "Cochlear And Hearing Devices",
+          "Hyperacusis And Auditory Processing Disorder",
+          "General Ear-related Issues"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Gastroenterology",
+    "sub_specialties": [
+      {
+        "name": "General Gastroenterology",
+        "clinical_interests": [
+          "Abdominal Pain",
+          "Acid Reflux (GORD or GERD)",
+          "Belching",
+          "Dyspepsia",
+          "Dysphagia",
+          "Eating Disorders",
+          "Functional Gastrointestinal Disorders",
+          "Indigestion",
+          "Irritable Bowel Syndrome (IBS)",
+          "Unexplained Abdominal Pain",
+          "Unexplained Weight Loss",
+          "Vomiting Disorders"
+        ]
+      },
+      {
+        "name": "Esophagology",
+        "clinical_interests": [
+          "Achalasia",
+          "Barrett's Esophagus",
+          "Benign Esophageal Stricture",
+          "Chronic Esophagitis",
+          "Eosinophilic Esophagitis",
+          "Esophageal Cancer",
+          "Esophageal Dilation and Stenting",
+          "Esophageal Disorders",
+          "Esophageal Manometry and Impedance",
+          "Esophageal Ph Study",
+          "Esophageal Varices",
+          "Esophagitis",
+          "Esophagogastroduodenoscopy (EGD)"
+        ]
+      },
+      {
+        "name": "Hepatology",
+        "clinical_interests": [
+          "Banti's Syndrome",
+          "Chronic Liver Disease and Cirrhosis",
+          "Fatty Liver",
+          "Hepatitis",
+          "Hepatorenal Syndrome",
+          "Jaundice",
+          "Liver Failure",
+          "Liver Transplantation",
+          "Performing Liver Biopsies",
+          "Portal Hypertension",
+          "Liver Disorders"
+        ]
+      },
+      {
+        "name": "Pancreatology",
+        "clinical_interests": [
+          "Acute and Chronic Pancreatitis",
+          "Biliary and Pancreatic Diseases",
+          "Endoscopic Pancreatic Function Testing",
+          "Small Intestinal Bacterial Overgrowth"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Oncology",
+        "clinical_interests": [
+          "Colorectal Cancer",
+          "Esophageal Cancer",
+          "Gastrointestinal Cancer",
+          "Neuroendocrine Tumors",
+          "Oesophageal Cancer"
+        ]
+      },
+      {
+        "name": "Inflammatory Bowel Disease",
+        "clinical_interests": [
+          "Colitis",
+          "Crohn's Disease",
+          "Inflammatory Bowel Disease (IBD)",
+          "Ulcerative Colitis"
+        ]
+      },
+      {
+        "name": "Endoscopy",
+        "clinical_interests": [
+          "Advanced Endoscopy",
+          "Endoscopic Ablative Therapy",
+          "Endoscopic Fundoplication",
+          "Endoscopic Management of Gastrointestinal Bleeding",
+          "Endoscopic Procedures",
+          "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+          "Endoscopic Ultrasound",
+          "Endoscopic Variceal Band Ligation (EVL)",
+          "Endoscopic Variceal Sclerotherapy",
+          "Enteroscopy",
+          "Flexible Sigmoidoscopy",
+          "Therapeutic Endoscopy",
+          "Video Capsule Endoscopy"
+        ]
+      },
+      {
+        "name": "Colorectal Disorders",
+        "clinical_interests": [
+          "Constipation",
+          "Diverticular Disease",
+          "Hemorrhoids",
+          "Intestinal Diverticulitis",
+          "Intestinal Diverticulosis",
+          "Intestinal Obstruction",
+          "Colorectal Cancer"
+        ]
+      },
+      {
+        "name": "Biliary Tract Disorders",
+        "clinical_interests": [
+          "Gallbladder and Biliary Tract Disorders",
+          "Cholecystitis",
+          "Cholelithiasis"
+        ]
+      },
+      {
+        "name": "Peptic Ulcer Disease and Gastritis",
+        "clinical_interests": [
+          "Gastric Ulcers",
+          "Gastritis",
+          "Helicobacter Pylori Infection",
+          "Peptic Ulcer Disease"
+        ]
+      },
+      {
+        "name": "Infectious Gastroenterology",
+        "clinical_interests": [
+          "Campylobacter Infection",
+          "Gastroenteritis",
+          "Parasite Infections"
+        ]
+      },
+      {
+        "name": "Nutrition and Obesity",
+        "clinical_interests": [
+          "Nutrition",
+          "Obesity Management",
+          "Intragastric Balloon for Weight Loss"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Motility Disorders",
+        "clinical_interests": [
+          "Gastrointestinal Motility Disorders"
+        ]
+      },
+      {
+        "name": "General and Diagnostic Gastroenterology",
+        "clinical_interests": [
+          "Bowel Cancer Screening",
+          "Digestive Intolerances",
+          "Electroviscerography",
+          "Bravo pH Capsule Monitoring"
+        ]
+      },
+      {
+        "name": "Upper GI",
+        "clinical_interests": [
+          "Esophageal Disorders",
+          "Upper Gastrointestinal Disorders",
+          "Gastrointestinal Bleeding",
+          "Small Intestinal Disorders"
+        ]
+      },
+      {
+        "name": "Lower GI",
+        "clinical_interests": [
+          "Gastrointestinal Bleeding",
+          "Colorectal Disorders",
+          "Small Intestinal Disorders",
+          "Functional GI Disorders"
+        ]
+      },
+      {
+        "name": "Pancreatic disorders",
+        "clinical_interests": [
+          "Pancreatic Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Gastrointestinal surgery",
+    "sub_specialties": [
+      {
+        "name": "Hepato-Pancreatico-Biliary (HPB) Surgery",
+        "clinical_interests": [
+          "Adult liver transplantation",
+          "Gallbladder disease",
+          "Gallbladder surgery",
+          "Hepato-pancreatico-biliary surgeries",
+          "Hepatobiliary oncosurgery",
+          "Liver and intestinal transplantation",
+          "Liver onco-surgery",
+          "Liver transplantation",
+          "Paediatric HPB surgery"
+        ]
+      },
+      {
+        "name": "Colorectal Surgery",
+        "clinical_interests": [
+          "Coloproctology",
+          "Colorectal cancer",
+          "Colorectal oncologic surgery",
+          "Colorectal resection",
+          "Colorectal screening",
+          "Colorectal surgery",
+          "Colorectal tumors",
+          "Bowel cancer",
+          "Bowel diversion surgery",
+          "Bowel obstruction",
+          "Bowel surgery (colectomy)",
+          "Diverticulitis",
+          "Diverticular diseases",
+          "Fistula and fissures",
+          "Functional disorders",
+          "Lower digestive tract conditions",
+          "Perineal reconstruction",
+          "Pelvic floor disorders (incontinence, prolapse, anal fistula, hemorrhoids)",
+          "Pilonidal disease",
+          "Abdominal reconstruction",
+          "Abdominal wall reconstruction",
+          "Abdominoperineal resection"
+        ]
+      },
+      {
+        "name": "Gastrointestinal surgery",
+        "clinical_interests": [
+          "Achalasia surgery",
+          "Crohn's disease",
+          "Inflammatory bowel disease",
+          "Intestinal failure",
+          "Oesophageal and gastric cancer surgery",
+          "Diagnostic upper GI endoscopy",
+          "Gastrointestinal endoscopic procedures",
+          "Hiatus hernia and anti-reflux surgery",
+          "Heller's surgery for achalasia",
+          "Small cell lung cancer",
+          "Ulcerative colitis",
+          "Upper gastrointestinal cancer",
+          "Upper gastrointestinal surgery",
+          "Surgical removal of colon"
+        ]
+      },
+      {
+        "name": "Thoracic Surgery/Oncology",
+        "clinical_interests": [
+          "Lung cancer",
+          "Small cell lung cancer",
+          "Thymic tumors",
+          "Sarcoma",
+          "Oesophageal cancers"
+        ]
+      },
+      {
+        "name": "Endocrine Surgery/Oncology",
+        "clinical_interests": [
+          "Endocrine surgical oncology (other than breast)",
+          "Hyperparathyroidism",
+          "Thyroid cancer",
+          "Neuroendocrine tumours (NETs)"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Gastrointestinal Surgery & General Surgery",
+    "sub_specialties": [
+      {
+        "name": "Hepatobiliary Surgery",
+        "clinical_interests": [
+          "Liver Resection (Hepatectomy)",
+          "Liver Transplantation",
+          "Minimally Invasive Liver Surgery (Laparoscopic and Robotic)",
+          "Surgery for Liver Cancer (Hepatocellular Carcinoma, Metastases)",
+          "Surgery for Benign Liver Tumors (Hemangioma, Adenoma, FNH)",
+          "Cholecystectomy (Gallbladder Removal)",
+          "Bile Duct Surgery (Choledochotomy, Biliary Strictures)",
+          "Surgery for Bile Duct Cancer (Cholangiocarcinoma)",
+          "Biliary Reconstruction Surgery",
+          "Surgery for Gallstones and Biliary Disease",
+          "Pancreaticoduodenectomy (Whipple Procedure)",
+          "Distal Pancreatectomy",
+          "Minimally Invasive Pancreatic Surgery",
+          "Surgery for Pancreatic Cancer and Pancreatic Neuroendocrine Tumors",
+          "Surgery for Chronic Pancreatitis and Cysts",
+          "Surgical Oncology for HPB Cancers",
+          "Resection of Metastatic Disease to the Liver",
+          "Neoadjuvant and Adjuvant Surgical Planning for HPB Malignancies",
+          "Cytoreductive Surgery for HPB Malignancies",
+          "Robotic and Laparoscopic HPB Surgery",
+          "Liver and Pancreatic Transplantation",
+          "Ablative Techniques (Radiofrequency Ablation, Microwave Ablation)",
+          "Portal Hypertension Surgery (Shunt Procedures, Splenectomy)",
+          "Living Donor Liver Transplant Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "General Surgery",
+    "sub_specialties": [
+      {
+        "name": "General surgery",
+        "clinical_interests": [
+          "Emergent general surgery conditions",
+          "Elective and emergency cholecystectomies",
+          "Elective laparoscopic anti-reflux procedures",
+          "Hernia repairs",
+          "Hernias",
+          "Laparoscopic and open hernia surgery",
+          "Minimally invasive procedures",
+          "Open abdominal wall reconstructions",
+          "Trauma",
+          "Surgical critical care",
+          "Serious infections"
+        ]
+      },
+      {
+        "name": "Endocrine Surgery",
+        "clinical_interests": [
+          "Thyroid Surgery",
+          "Parathyroid Surgery",
+          "Adrenal Surgery",
+          "Pancreatic Endocrine Surgery",
+          "General Endocrine Surgical Procedures",
+          "Adrenal Cancer",
+          "Adrenal Disorders",
+          "Endocrine Surgery",
+          "Endocrine Tumors",
+          "Familial Isolated Hyperparathyroidism",
+          "Ganglioneuroma",
+          "Hyperparathyroidism",
+          "Insulinoma",
+          "Laparoscopic Adrenalectomy",
+          "Minimally Invasive Endocrine Surgery",
+          "Multiple Endocrine Neoplasia",
+          "Neuroendocrine Tumors",
+          "Osteitis Fibrosa",
+          "Parathyroid Cancer",
+          "Parathyroid Diseases",
+          "Pediatric Endocrine Disorders",
+          "Pediatric Thyroid/Parathyroid Surgery",
+          "Pheochromocytoma",
+          "Re-Do Thyroid/Parathyroid Surgery",
+          "Thyroid Cancer",
+          "Thyroid Diseases"
+        ]
+      },
+      {
+        "name": "Breast Surgery",
+        "clinical_interests": [
+          "Breast Cancer Surgery",
+          "Breast Reconstruction Surgery",
+          "Breast-Conserving Surgery (Lumpectomy)",
+          "Mastectomy (Total, Modified Radical, Skin-Sparing)",
+          "Oncoplastic Breast Surgery",
+          "Preventive Mastectomy",
+          "Axillary Surgery (Sentinel Node Biopsy, Axillary Dissection)",
+          "Benign and Malignant Breast Disease",
+          "Breast Cancer",
+          "Breast Cancer Genetics",
+          "Breast Conservation Therapy",
+          "Breast Diseases",
+          "Breast Enlargement in Males",
+          "Breast Lump"
+        ]
+      },
+      {
+        "name": "Bariatric Surgery (Weight Loss Surgery)",
+        "clinical_interests": [
+          "Gastric Bypass Surgery",
+          "Sleeve Gastrectomy",
+          "Adjustable Gastric Banding",
+          "Biliopancreatic Diversion with Duodenal Switch",
+          "Endoscopic Bariatric Procedures",
+          "Revisional Bariatric Surgery"
+        ]
+      },
+      {
+        "name": "Trauma Surgery",
+        "clinical_interests": [
+          "Emergency Surgery for Traumatic Injuries",
+          "Abdominal Trauma Surgery",
+          "Chest Trauma Surgery",
+          "Orthopedic Trauma Surgery",
+          "Head and Neck Trauma Surgery",
+          "Burn and Wound Management"
+        ]
+      },
+      {
+        "name": "Vascular Surgery",
+        "clinical_interests": [
+          "Aortic Aneurysm Repair (Open and Endovascular)",
+          "Carotid Artery Surgery",
+          "Peripheral Artery Disease (PAD) Surgery",
+          "Venous Disease and Varicose Vein Surgery",
+          "Dialysis Access Surgery",
+          "Thoracic Outlet Syndrome Surgery",
+          "Varicose Veins",
+          "Vascular Surgery"
+        ]
+      },
+      {
+        "name": "Surgical Oncology",
+        "clinical_interests": [
+          "Gastrointestinal Cancer Surgery",
+          "Hepatobiliary and Pancreatic Cancer Surgery",
+          "Colorectal Cancer Surgery",
+          "Melanoma and Skin Cancer Surgery",
+          "Soft Tissue Sarcoma Surgery",
+          "Head and Neck Cancer Surgery"
+        ]
+      },
+      {
+        "name": ". Critical Care Surgery",
+        "clinical_interests": [
+          "Emergency General Surgery",
+          "Acute Care Surgery",
+          "Sepsis and Infection Management",
+          "Multi-Organ Failure Management",
+          "Postoperative Critical Care",
+          "Trauma Critical Care"
+        ]
+      },
+      {
+        "name": "Bariatric Surgery",
+        "clinical_interests": [
+          "Bariatric And Metabolic Surgery",
+          "Reflux Surgeries And Upper GI Procedures",
+          "Bariatric Surgery"
+        ]
+      },
+      {
+        "name": "Oncosurgery",
+        "clinical_interests": [
+          "Head And Neck Oncosurgery",
+          "Breast Oncosurgery",
+          "Esophageal Oncosurgery",
+          "Upper Gastrointestinal Oncosurgery",
+          "Colorectal Oncosurgery",
+          "Liver Oncosurgery",
+          "Pancreatic Oncosurgery",
+          "Bone And Soft Tissue Oncosurgery",
+          "Gynecological Oncosurgery",
+          "Melanoma And Skin Oncosurgery",
+          "Neurological Oncosurgery",
+          "Pediatric Surgical Oncosurgery",
+          "Thoracic Oncosurgery",
+          "Hepatopancreatobiliary Oncosurgery",
+          "Urology Oncosurgery"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Surgery",
+        "clinical_interests": [
+          "Upper GIT",
+          "Pediatric GIT Surgery",
+          "Lower GIT",
+          "Abdominal Hernia Repair Surgery",
+          "Abdominal Wall Reconstruction",
+          "Bile Duct Surgery",
+          "Choledocholithiasis",
+          "Gallbladder Disease",
+          "Gastrointestinal Surgery",
+          "Hepatobiliary Surgery",
+          "Hiatal Hernia",
+          "Oesophagogastric Surgery",
+          "Pancreas Surgery",
+          "Pancreatic Cancer",
+          "Pancreatitis",
+          "Treatment of Reflux Disease",
+          "Upper Gastrointestinal Surgery"
+        ]
+      },
+      {
+        "name": "Colorectal Surgery",
+        "clinical_interests": [
+          "Advanced Techniques for Anorectal Sphincter Dysfunctions and Injuries",
+          "Anal Fissures",
+          "Appendectomy",
+          "Appendicitis",
+          "Colonoscopy",
+          "Colorectal Surgery",
+          "Fistulas",
+          "Hemorrhoids",
+          "Inflammatory Bowel Disease (IBD)",
+          "Surgical Removal of the Colon"
+        ]
+      },
+      {
+        "name": "Hernia Surgery",
+        "clinical_interests": [
+          "Groin Hernia Surgery",
+          "Hernia Surgery",
+          "Hiatal Hernia"
+        ]
+      },
+      {
+        "name": "Laparoscopic/Minimally Invasive Surgery",
+        "clinical_interests": [
+          "Laparoscopic Surgery",
+          "Minimally Invasive Surgery",
+          "Single Incision Surgery/Single Port Access Surgery",
+          "Robotic Surgery"
+        ]
+      },
+      {
+        "name": "Oncology Surgery",
+        "clinical_interests": [
+          "Angiosarcoma",
+          "Pancreatic Cancer",
+          "Parathyroid Cancer",
+          "Surgical Oncology",
+          "Thyroid Cancer"
+        ]
+      },
+      {
+        "name": "Pediatric Surgery",
+        "clinical_interests": [
+          "Pediatric Endocrine Disorders",
+          "Pediatric Surgery",
+          "Pediatric Thyroid/Parathyroid Surgery"
+        ]
+      },
+      {
+        "name": "Trauma/Critical Care Surgery",
+        "clinical_interests": [
+          "Acute Care Surgery",
+          "Burn Surgery",
+          "Chest Trauma",
+          "Critical Care",
+          "Surgical Critical Care",
+          "Trauma Surgery"
+        ]
+      },
+      {
+        "name": "General Surgical Techniques and Innovations",
+        "clinical_interests": [
+          "Endoscopy",
+          "Innovative Procedures",
+          "Neck Dissection",
+          "Regenerative Medicine",
+          "Surgical Wound Care"
+        ]
+      },
+      {
+        "name": "Rare Conditions/Syndromes",
+        "clinical_interests": [
+          "Bannayan-Riley-Ruvalcaba Syndrome"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "General surgery",
+    "sub_specialties": [
+      {
+        "name": "Pediatric Surgery",
+        "clinical_interests": [
+          "Neonatal Surgery",
+          "Fetal Medicine",
+          "Gastrointestinal",
+          "Urology",
+          "Congenital Vascular Surgery",
+          "General Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "General Surgery & Vascular Surgery",
+    "sub_specialties": [
+      {
+        "name": "Abdominal Surgery",
+        "clinical_interests": [
+          "Abdominal Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Hematology",
+    "sub_specialties": [
+      {
+        "name": "Anemia and Related Disorders",
+        "clinical_interests": [
+          "Anemia",
+          "Autoimmune hemolytic anemia",
+          "Congenital hemolytic anemia",
+          "Hemolytic anemias",
+          "Iron deficiency anemia",
+          "Myelodysplastic syndrome (MDS)",
+          "Myeloproliferative disorders",
+          "Polycythemia vera",
+          "Myelofibrosis",
+          "Myeloproliferative neoplasms",
+          "Myeloid neoplasms"
+        ]
+      },
+      {
+        "name": "Bone Marrow Disorders",
+        "clinical_interests": [
+          "Bone marrow biopsy",
+          "Bone marrow failure syndromes",
+          "Bone marrow transplantation",
+          "Essential thrombocythemia",
+          "Leukemia",
+          "Multiple myeloma",
+          "Myeloma"
+        ]
+      },
+      {
+        "name": "Cancer",
+        "clinical_interests": [
+          "Blood cancer",
+          "Chemotherapy",
+          "Lymphoma",
+          "Mesothelioma",
+          "Non-malignant hematology",
+          "Pediatric leukemia",
+          "Splenectomy"
+        ]
+      },
+      {
+        "name": "Coagulation Disorders",
+        "clinical_interests": [
+          "Anticoagulation management",
+          "Antiphospholipid syndrome",
+          "Bleeding disorders",
+          "Clotting disorders",
+          "Deep vein thrombosis (DVT)",
+          "Disorders of hemostasis and thrombosis",
+          "Thrombocytopenia",
+          "Thrombosis",
+          "Thrombotic disorders",
+          "Venous thrombosis",
+          "COVID-associated thrombosis"
+        ]
+      },
+      {
+        "name": "Obstetric Hematology",
+        "clinical_interests": [
+          "Obstetric hematology",
+          "Obstetric management of thrombotic disorders"
+        ]
+      },
+      {
+        "name": "Pediatric Hematology",
+        "clinical_interests": [
+          "Fetal hemoglobin regulation",
+          "Management of chronic pain in sickle cell disease",
+          "Novel drug therapies and gene-based therapies for sickle cell disease"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Hematology/Oncology",
+    "sub_specialties": [
+      {
+        "name": "Hematology",
+        "clinical_interests": [
+          "Anemias And Hemolytic Disorders",
+          "Coagulation And Bleeding Disorders",
+          "Thrombosis And Vascular Disorders",
+          "Leukemias And Lymphomas",
+          "Hematopoietic Stem Cell Transplantation",
+          "Hematologic Disorders In Pregnancy"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Hepatology",
+    "sub_specialties": [
+      {
+        "name": "Hepatology",
+        "clinical_interests": [
+          "Liver Diseases",
+          "Liver Transplantation",
+          "Autoimmune Liver Diseases",
+          "Gastrointestinal Disorders And Procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Immunology",
+    "sub_specialties": [
+      {
+        "name": "Allergy and Immunology",
+        "clinical_interests": [
+          "Aero-allergen allergies",
+          "Allergy and clinical immunology",
+          "Allergic rhinitis",
+          "Anaphylaxis",
+          "Antibiotic allergy",
+          "Chronic urticaria & angioedema",
+          "Contact dermatitis",
+          "Delayed drug reactions",
+          "Drug allergy",
+          "Food allergy",
+          "Food, insect, and respiratory allergies",
+          "Food challenge testing",
+          "Immune deficiencies",
+          "Immunotherapy and desensitisation",
+          "Intradermal testing",
+          "Laboratory testing for allergies including component resolved diagnostics",
+          "Latex allergy",
+          "Peri-operative allergy",
+          "Primary immune deficiencies",
+          "Skin prick tests",
+          "Venom allergy"
+        ]
+      },
+      {
+        "name": "Dermatology",
+        "clinical_interests": [
+          "Atopic eczema",
+          "Eczema",
+          "Angioedema",
+          "Chronic urticaria & angioedema"
+        ]
+      },
+      {
+        "name": "Immunology and Infectious Diseases",
+        "clinical_interests": [
+          "Immunology of infectious diseases",
+          "T-cell immunology",
+          "Gene/environment interaction",
+          "Epigenetics"
+        ]
+      },
+      {
+        "name": "Autoimmune and Rheumatological Diseases",
+        "clinical_interests": [
+          "Autoimmune diseases",
+          "Beh\u00e7et's disease",
+          "Musculoskeletal diseases",
+          "Osteoarthritis",
+          "Psoriatic arthritis",
+          "Rheumatoid arthritis",
+          "Rheumatological diseases",
+          "Still's disease"
+        ]
+      },
+      {
+        "name": "Cardiovascular and Systemic Conditions",
+        "clinical_interests": [
+          "Pericarditis and myocarditis"
+        ]
+      },
+      {
+        "name": "Hematology and Oncology",
+        "clinical_interests": [
+          "Hematological malignancies"
+        ]
+      },
+      {
+        "name": "Immuno-deficiencies",
+        "clinical_interests": [
+          "Primary Immunodeficiency Disorders",
+          "Autoimmune Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Infectious Diseases",
+    "sub_specialties": [
+      {
+        "name": "Infectious Diseases",
+        "clinical_interests": [
+          "Viral Infections",
+          "Bacterial Infections",
+          "Fungal Infections",
+          "Parasitic Infections",
+          "Travel And Tropical Medicine",
+          "Infections-Related Areas"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Internal medicine",
+    "sub_specialties": [
+      {
+        "name": "General Internal Medicine",
+        "clinical_interests": [
+          "Family medicine",
+          "Management of chronic conditions",
+          "Postacute care management",
+          "Urgent care development and management",
+          "Women's health",
+          "High cholesterol",
+          "Weight loss",
+          "Obesity medicine",
+          "Nutritional problems",
+          "Urinary incontinence",
+          "Cognitive issues"
+        ]
+      },
+      {
+        "name": "Geriatrics",
+        "clinical_interests": [
+          "Geriatric medicine",
+          "Dementia"
+        ]
+      },
+      {
+        "name": "Endocrinology and Metabolism",
+        "clinical_interests": [
+          "Diabetes",
+          "Diabetes mellitus",
+          "Glucocorticoid-remediable aldosteronism",
+          "Hormone optimization",
+          "Hypothyroidism",
+          "Underactive thyroid",
+          "Metabolic syndrome",
+          "Osteopenia"
+        ]
+      },
+      {
+        "name": "Pulmonology and Respiratory Medicine",
+        "clinical_interests": [
+          "Pulmonary diseases",
+          "Respiratory conditions",
+          "COPD",
+          "Sleep medicine",
+          "Aspiration pneumonia"
+        ]
+      },
+      {
+        "name": "General Gastroenterology",
+        "clinical_interests": [
+          "Abdominal Pain",
+          "Acid Reflux (GORD or GERD)",
+          "Belching",
+          "Dyspepsia",
+          "Dysphagia",
+          "Eating Disorders",
+          "Functional Gastrointestinal Disorders",
+          "Indigestion",
+          "Irritable Bowel Syndrome (IBS)",
+          "Unexplained Abdominal Pain",
+          "Unexplained Weight Loss",
+          "Vomiting Disorders"
+        ]
+      },
+      {
+        "name": "Esophagology",
+        "clinical_interests": [
+          "Achalasia",
+          "Barrett's Esophagus",
+          "Benign Esophageal Stricture",
+          "Chronic Esophagitis",
+          "Eosinophilic Esophagitis",
+          "Esophageal Cancer",
+          "Esophageal Dilation and Stenting",
+          "Esophageal Disorders",
+          "Esophageal Manometry and Impedance",
+          "Esophageal Ph Study",
+          "Esophageal Varices",
+          "Esophagitis",
+          "Esophagogastroduodenoscopy (EGD)"
+        ]
+      },
+      {
+        "name": "Hepatology",
+        "clinical_interests": [
+          "Banti's Syndrome",
+          "Chronic Liver Disease and Cirrhosis",
+          "Fatty Liver",
+          "Hepatitis",
+          "Hepatorenal Syndrome",
+          "Jaundice",
+          "Liver Failure",
+          "Liver Transplantation",
+          "Performing Liver Biopsies",
+          "Portal Hypertension"
+        ]
+      },
+      {
+        "name": "Pancreatology",
+        "clinical_interests": [
+          "Acute and Chronic Pancreatitis",
+          "Biliary and Pancreatic Diseases",
+          "Endoscopic Pancreatic Function Testing",
+          "Small Intestinal Bacterial Overgrowth"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Oncology",
+        "clinical_interests": [
+          "Colorectal Cancer",
+          "Esophageal Cancer",
+          "Gastrointestinal Cancer",
+          "Neuroendocrine Tumors",
+          "Oesophageal Cancer"
+        ]
+      },
+      {
+        "name": "Inflammatory Bowel Disease",
+        "clinical_interests": [
+          "Colitis",
+          "Crohn's Disease",
+          "Inflammatory Bowel Disease (IBD)",
+          "Ulcerative Colitis"
+        ]
+      },
+      {
+        "name": "Endoscopy",
+        "clinical_interests": [
+          "Advanced Endoscopy",
+          "Endoscopic Ablative Therapy",
+          "Endoscopic Fundoplication",
+          "Endoscopic Management of Gastrointestinal Bleeding",
+          "Endoscopic Procedures",
+          "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+          "Endoscopic Ultrasound",
+          "Endoscopic Variceal Band Ligation (EVL)",
+          "Endoscopic Variceal Sclerotherapy",
+          "Enteroscopy",
+          "Flexible Sigmoidoscopy",
+          "Therapeutic Endoscopy",
+          "Video Capsule Endoscopy"
+        ]
+      },
+      {
+        "name": "Colorectal Disorders",
+        "clinical_interests": [
+          "Constipation",
+          "Diverticular Disease",
+          "Hemorrhoids",
+          "Intestinal Diverticulitis",
+          "Intestinal Diverticulosis",
+          "Intestinal Obstruction",
+          "Colorectal Cancer"
+        ]
+      },
+      {
+        "name": "Biliary Tract Disorders",
+        "clinical_interests": [
+          "Gallbladder and Biliary Tract Disorders",
+          "Cholecystitis",
+          "Cholelithiasis"
+        ]
+      },
+      {
+        "name": "Peptic Ulcer Disease and Gastritis",
+        "clinical_interests": [
+          "Gastric Ulcers",
+          "Gastritis",
+          "Helicobacter Pylori Infection",
+          "Peptic Ulcer Disease"
+        ]
+      },
+      {
+        "name": "Infectious Gastroenterology",
+        "clinical_interests": [
+          "Campylobacter Infection",
+          "Gastroenteritis",
+          "Parasite Infections"
+        ]
+      },
+      {
+        "name": "Nutrition and Obesity",
+        "clinical_interests": [
+          "Nutrition",
+          "Obesity Management",
+          "Intragastric Balloon for Weight Loss"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Motility Disorders",
+        "clinical_interests": [
+          "Gastrointestinal Motility Disorders"
+        ]
+      },
+      {
+        "name": "General and Diagnostic Gastroenterology",
+        "clinical_interests": [
+          "Bowel Cancer Screening",
+          "Digestive Intolerances",
+          "Electroviscerography",
+          "Bravo pH Capsule Monitoring"
+        ]
+      },
+      {
+        "name": "Infectious Diseases",
+        "clinical_interests": [
+          "HIV",
+          "Infectious diseases",
+          "Herpes zoster (shingles)",
+          "Pink eye (conjunctivitis)",
+          "Urinary tract infections (UTIs)"
+        ]
+      },
+      {
+        "name": "Sports Medicine and Rehabilitation",
+        "clinical_interests": [
+          "Athletic performance enhancement",
+          "Sports medicine",
+          "Non-surgical orthopedics"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Internal Medicine",
+    "sub_specialties": [
+      {
+        "name": "Geriatrics",
+        "clinical_interests": [
+          "Fall Prevention and Mobility",
+          "Polypharmacy Management"
+        ]
+      },
+      {
+        "name": "Hospitalist",
+        "clinical_interests": [
+          "Acute Care in Hospital Settings",
+          "Chronic Disease Management"
+        ]
+      },
+      {
+        "name": "Palliative Care",
+        "clinical_interests": [
+          "Symptom Control and Pain Management",
+          "End-of-Life Care"
+        ]
+      },
+      {
+        "name": "Primary Care / General Medicine",
+        "clinical_interests": [
+          "Preventive Health Screenings",
+          "Chronic Disease Management"
+        ]
+      },
+      {
+        "name": "Internal Medicine",
+        "clinical_interests": [
+          "Obesity Medicine",
+          "Addiction"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Interventional Radiology",
+    "sub_specialties": [
+      {
+        "name": "Vascular Interventions",
+        "clinical_interests": [
+          "Angiography",
+          "Angioplasty and Stent Placement",
+          "Thrombolysis",
+          "Embolization",
+          "Inferior Vena Cava (IVC) Filter Placement",
+          "Peripheral Arterial Disease (PAD) Interventions",
+          "Aortic Stent Grafting",
+          "Uterine Artery Embolisation"
+        ]
+      },
+      {
+        "name": "Oncology Interventions",
+        "clinical_interests": [
+          "Interventional Oncology",
+          "Radiofrequency, Microwave and Cryoablation",
+          "Radioembolization and Chemoembolization",
+          "Biliary Drainage and Stenting",
+          "Percutaneous Stone Removal",
+          "Oesophageal Stenting",
+          "Colonic Stenting"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Interventions",
+        "clinical_interests": [
+          "Transjugular Intrahepatic Portosystemic Shunt (TIPS)",
+          "Percutaneous Gastrostomy",
+          "Biliary Drainage and Stenting",
+          "Oesophageal Stenting",
+          "Colonic Stenting"
+        ]
+      },
+      {
+        "name": "Genitourinary Interventions",
+        "clinical_interests": [
+          "Percutaneous Nephrostomy"
+        ]
+      },
+      {
+        "name": "Pain Management",
+        "clinical_interests": [
+          "Image-Guided Pain Management"
+        ]
+      },
+      {
+        "name": "Neurointerventions",
+        "clinical_interests": [
+          "Neurointerventional Procedures"
+        ]
+      },
+      {
+        "name": "Pulmonary Interventions",
+        "clinical_interests": [
+          "Lung Interventions"
+        ]
+      },
+      {
+        "name": "Lymphatic Interventions",
+        "clinical_interests": [
+          "Lymphatic Interventions"
+        ]
+      },
+      {
+        "name": "Cardiac Imaging",
+        "clinical_interests": [
+          "Cardiac Imaging"
+        ]
+      },
+      {
+        "name": "Chest Imaging",
+        "clinical_interests": [
+          "Chest Imaging"
+        ]
+      },
+      {
+        "name": "Musculoskeletal Radiology",
+        "clinical_interests": [
+          "Musculoskeletal Radiology"
+        ]
+      },
+      {
+        "name": "Nuclear Radiology",
+        "clinical_interests": [
+          "Nuclear Radiology"
+        ]
+      },
+      {
+        "name": "Interventional Radiology",
+        "clinical_interests": [
+          "Image-Guided Tumor Ablation",
+          "Endovascular Procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Nephrology",
+    "sub_specialties": [
+      {
+        "name": "General Nephrology",
+        "clinical_interests": [
+          "Chronic Kidney Disease (CKD)",
+          "Acute Renal Failure/Acute Kidney Injury (AKI)",
+          "End-Stage Renal Disease (ESRD)",
+          "High Blood Pressure/Hypertension",
+          "Blood in Urine (Haematuria)",
+          "Fluid Imbalances/Electrolyte Disturbances",
+          "Lupus",
+          "Chronic Renal Failure",
+          "Renovascular Hypertension",
+          "Nephrosclerosis"
+        ]
+      },
+      {
+        "name": "Dialysis and Transplantation",
+        "clinical_interests": [
+          "Hemodialysis",
+          "Peritoneal Dialysis",
+          "Kidney Transplantation",
+          "Pre-Transplant Care",
+          "Kidney Dialysis"
+        ]
+      },
+      {
+        "name": "Glomerular Diseases",
+        "clinical_interests": [
+          "Glomerulonephritis/Glomerular Diseases",
+          "Diabetic Nephropathy",
+          "Systemic Vasculitis",
+          "Atypical HUS",
+          "TTP (Thrombotic Thrombocytopenic Purpura)",
+          "Rapidly Progressive Renal Failure"
+        ]
+      },
+      {
+        "name": "Hereditary and Rare Kidney Diseases",
+        "clinical_interests": [
+          "Rare Kidney Diseases/Hereditary Kidney Disorders",
+          "Polycystic Kidney Disease"
+        ]
+      },
+      {
+        "name": "Interventional Nephrology",
+        "clinical_interests": [
+          "Interventional Nephrology Procedures",
+          "Kidney Biopsy"
+        ]
+      },
+      {
+        "name": "Specialized Nephrology Conditions",
+        "clinical_interests": [
+          "Onco-Nephrology",
+          "Kidney Cysts",
+          "Parathyroid (Gland) Disease",
+          "Autoimmune Disorders",
+          "Kidney Infections",
+          "HIV"
+        ]
+      },
+      {
+        "name": "Cardiorenal and Metabolic Syndromes",
+        "clinical_interests": [
+          "Cardiorenal Syndrome",
+          "Refractory Hypertension",
+          "Refractory Heart Failure"
+        ]
+      },
+      {
+        "name": "Metabolic and Hematologic Conditions",
+        "clinical_interests": [
+          "Gout",
+          "Anemia/Anemia in Chronic Kidney Disease",
+          "Hyperkalemia",
+          "Hyponatremia"
+        ]
+      },
+      {
+        "name": "Renal Replacement Therapies",
+        "clinical_interests": [
+          "Renal Replacement Therapies"
+        ]
+      },
+      {
+        "name": "Kidney Diseases And Disorders",
+        "clinical_interests": [
+          "Kidney Diseases And Disorders"
+        ]
+      },
+      {
+        "name": "Hypertension",
+        "clinical_interests": [
+          "Hypertension"
+        ]
+      },
+      {
+        "name": "Metabolic And Hematologic Conditions",
+        "clinical_interests": [
+          "Anemia Management in Chronic Kidney Disease (CKD)",
+          "Hyperkalemia and Electrolyte Disorders",
+          "Secondary Hyperparathyroidism",
+          "Metabolic Acidosis",
+          "Renal Osteodystrophy and Mineral Bone Disorders",
+          "Hyperuricemia and Gout in Kidney Disease",
+          "Coagulopathy in End-Stage Renal Disease"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Neurology",
+    "sub_specialties": [
+      {
+        "name": "Neurodegenerative Diseases",
+        "clinical_interests": [
+          "Amyotrophic Lateral Sclerosis (ALS)",
+          "Dementia and Alzheimer's",
+          "Motor Neuron Disease",
+          "Multiple System Atrophy (MSA)",
+          "Parkinson's Disease",
+          "Spinal Muscular Atrophy"
+        ]
+      },
+      {
+        "name": "Neuromuscular Disorders",
+        "clinical_interests": [
+          "Ataxia",
+          "Brachial Plexus Neuropathies",
+          "Charcot Marie Tooth Neuropathies",
+          "Duchenne Muscular Dystrophy (DMD)",
+          "Dystonia",
+          "Guillain Barre Syndrome",
+          "Hereditary Motor and Sensory Neuropathies",
+          "Inflammatory Myopathies",
+          "Myasthenia Gravis",
+          "Myofascial Pain Block",
+          "Myofibrillar Myopathies",
+          "Myopathy",
+          "Muscular Dystrophies",
+          "Neuromyotonia",
+          "Neuromuscular Diseases",
+          "Peripheral Neuropathy",
+          "Muscular dystrophies and congenital myopathies",
+          "Peripheral neuropathies",
+          "Myasthenia gravis and other neuromuscular junction disorders",
+          "Amyotrophic lateral sclerosis (ALS) and motor neuron diseases",
+          "Inflammatory myopathies",
+          "Guillain-Barr\u00e9 syndrome and chronic inflammatory demyelinating polyneuropathy (CIDP)",
+          "Electromyography (EMG) and nerve conduction studies"
+        ]
+      },
+      {
+        "name": "Pediatric Neurology",
+        "clinical_interests": [
+          "Autism Spectrum Disorder",
+          "Down Syndrome",
+          "Lennox-Gastaut Syndrome",
+          "Microcephaly",
+          "Pediatric Neurology Genetics",
+          "Epilepsy and seizure disorders in children",
+          "Developmental delay and intellectual disabilities",
+          "Cerebral palsy and other motor disorders",
+          "Pediatric neuromuscular disorders",
+          "Autism spectrum disorder and other neurodevelopmental conditions",
+          "Headache and migraine management in children",
+          "Behavioral and learning disorders in children"
+        ]
+      },
+      {
+        "name": "Epilepsy and Neurophysiology",
+        "clinical_interests": [
+          "Clinical Neurophysiology",
+          "Concussion",
+          "Critical Care (ICU) EEG Monitoring",
+          "Deep Brain Stimulation (DBS) for Epilepsy",
+          "Electroencephalography",
+          "Epilepsy and Neurophysiology",
+          "Evoked Potentials",
+          "Focal Cortex Stimulation for Epilepsy",
+          "Intra-operative Neurophysiologic Monitoring",
+          "Refractory Epilepsy",
+          "Semiology (Clinical Signs of Seizures)",
+          "Simultaneous EEG-fMRI",
+          "Stereo-Electroencephalography (Stereo-EEG)",
+          "Video-EEG Monitoring"
+        ]
+      },
+      {
+        "name": "Cerebrovascular Disorders",
+        "clinical_interests": [
+          "Anoxic Brain Injuries",
+          "Balance Disorders",
+          "Cerebrovascular Accident (Stroke)",
+          "Stroke",
+          "Transcranial Doppler",
+          "Vestibular Medicine",
+          "Ischemic stroke management and prevention",
+          "Hemorrhagic stroke treatment",
+          "Cerebral aneurysms and arteriovenous malformations (AVMs)",
+          "Transient ischemic attack (TIA) management",
+          "Carotid artery disease and endarterectomy",
+          "Endovascular interventions",
+          "Stroke rehabilitation and recovery"
+        ]
+      },
+      {
+        "name": "Neuroimmunology and Inflammatory Disorders",
+        "clinical_interests": [
+          "Autoimmune Neurological Conditions",
+          "Demyelinating Diseases",
+          "Encephalitis",
+          "Meningitis",
+          "Multiple Sclerosis (MS)",
+          "Neuro-Inflammatory Disorders",
+          "Neuroimmunology"
+        ]
+      },
+      {
+        "name": "Neuro-oncology",
+        "clinical_interests": [
+          "Neuro-Oncology",
+          "Pseudotumor Cerebri Syndrome"
+        ]
+      },
+      {
+        "name": "Neurodevelopmental Disorders",
+        "clinical_interests": [
+          "Cognitive Electrophysiology",
+          "Neurodevelopmental Disorders"
+        ]
+      },
+      {
+        "name": "Neuroimaging and Functional Neuroimaging",
+        "clinical_interests": [
+          "Brain Mapping with Invasive (Subdural Grids)",
+          "Functional Imaging",
+          "Neuroimaging Techniques",
+          "Simultaneous EEG-fMRI"
+        ]
+      },
+      {
+        "name": "Neurocritical Care",
+        "clinical_interests": [
+          "Coma",
+          "Neurocritical Care"
+        ]
+      },
+      {
+        "name": "Movement Disorders",
+        "clinical_interests": [
+          "Deep Brain Stimulation (DBS) for Epilepsy",
+          "HIFU-Parkinson's and Tremors",
+          "Movement Disorders",
+          "Restless Legs Syndrome",
+          "Parkinson\u2019s disease and related disorders",
+          "Essential tremor and other tremor disorders",
+          "Dystonia",
+          "Huntington\u2019s disease and other genetic movement disorders",
+          "Tourette syndrome and tics",
+          "Deep brain stimulation (DBS) for movement disorders",
+          "Botulinum toxin injections for dystonia and spasticity"
+        ]
+      },
+      {
+        "name": "Headache and Pain Disorders",
+        "clinical_interests": [
+          "Chronic Pain",
+          "Fibromyalgia",
+          "Headache",
+          "Migraine and Chronic Headache",
+          "Myofascial Pain Block",
+          "Neck and Back Pain",
+          "Neuropathic Pain",
+          "Pain Medicine"
+        ]
+      },
+      {
+        "name": "Neuropathies",
+        "clinical_interests": [
+          "Diabetic Neuropathies",
+          "Genetic Neuropathies",
+          "Nerve Damage",
+          "Peripheral Neuropathy"
+        ]
+      },
+      {
+        "name": "Sleep Disorders",
+        "clinical_interests": [
+          "Narcolepsy",
+          "Sleep Disorders"
+        ]
+      },
+      {
+        "name": "Cognitive and Behavioral Neurology",
+        "clinical_interests": [
+          "Amnesia",
+          "Behavioural Neurology",
+          "Blackouts",
+          "Memory and Cognitive Disorders"
+        ]
+      },
+      {
+        "name": "Autonomic and Functional Neurology",
+        "clinical_interests": [
+          "Autonomic Disorders",
+          "Functional Neurological Disorder",
+          "Postural Orthostatic Tachycardia Syndrome (POTS)",
+          "Whiplash Syndrome"
+        ]
+      },
+      {
+        "name": "Neurorehabilitation",
+        "clinical_interests": [
+          "Neuro-Ophthalmic Rehabilitation",
+          "Therapeutic Botulinum Toxin Injection"
+        ]
+      },
+      {
+        "name": "Miscellaneous",
+        "clinical_interests": [
+          "Brain Injury",
+          "HIFU-Parkinson's and Tremors",
+          "Neuro-Ophthalmic Emergencies",
+          "Transcortical sensory aphasia (TSA)"
+        ]
+      },
+      {
+        "name": "Epilepsy And Seizure Disorders",
+        "clinical_interests": [
+          "Epilepsy And Seizure Disorders"
+        ]
+      },
+      {
+        "name": "Headache And Pain Disorders",
+        "clinical_interests": [
+          "Headache And Pain Disorders"
+        ]
+      },
+      {
+        "name": "Memory And Cognitive Disorders",
+        "clinical_interests": [
+          "Memory And Cognitive Disorders"
+        ]
+      },
+      {
+        "name": "Neuroimmunology And Autoimmune Disorders",
+        "clinical_interests": [
+          "Multiple sclerosis and variants",
+          "Autoimmune encephalitis and other CNS autoimmune disorders",
+          "Myasthenia gravis and other antibody-mediated neuromuscular conditions",
+          "Neuro-Beh\u00e7et\u2019s disease and neuro-sarcoidosis",
+          "Chronic inflammatory demyelinating polyneuropathy (CIDP)",
+          "Paraneoplastic neurologic syndromes",
+          "Immune therapies"
+        ]
+      },
+      {
+        "name": "Autonomic And Vestibular Disorders",
+        "clinical_interests": [
+          "Autonomic And Vestibular Disorders"
+        ]
+      },
+      {
+        "name": "Neurological Infections And Inflammatory Conditions",
+        "clinical_interests": [
+          "Neurological Infections And Inflammatory Conditions"
+        ]
+      },
+      {
+        "name": "Other Neurological Conditions",
+        "clinical_interests": [
+          "Other Neurological Conditions"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Neurology & ENT & Chest Medicine",
+    "sub_specialties": [
+      {
+        "name": "Neurology",
+        "clinical_interests": [
+          "General Neurology",
+          "Epilepsy and Seizure Disorders",
+          "Movement Disorders (Parkinson\u2019s, Tremor)",
+          "Neuromuscular Disorders (ALS, Myasthenia Gravis)",
+          "Stroke and Cerebrovascular Disease",
+          "Headache and Migraine",
+          "Cognitive and Memory Disorders (Alzheimer\u2019s, Dementia)",
+          "Multiple Sclerosis and Demyelinating Diseases",
+          "Neuro-Oncology",
+          "Neurocritical Care"
+        ]
+      },
+      {
+        "name": "ENT (Otolaryngology)",
+        "clinical_interests": [
+          "General ENT",
+          "Otology and Neurotology (Ear and Balance Disorders)",
+          "Rhinology (Nasal and Sinus Disorders)",
+          "Laryngology (Voice and Swallowing Disorders)",
+          "Head and Neck Surgery",
+          "Pediatric ENT",
+          "Allergy and Immunology (ENT-related)",
+          "Sleep Medicine (ENT-related)",
+          "Thyroid and Parathyroid Surgery (ENT-focused)"
+        ]
+      },
+      {
+        "name": "Chest Medicine (Pulmonology)",
+        "clinical_interests": [
+          "General Pulmonology",
+          "Chronic Obstructive Pulmonary Disease (COPD)",
+          "Asthma and Allergy",
+          "Interstitial Lung Disease (ILD)",
+          "Pulmonary Hypertension",
+          "Sleep Medicine (Pulmonology-focused)",
+          "Lung Cancer and Thoracic Oncology",
+          "Infectious Lung Diseases (e.g., Tuberculosis)",
+          "Critical Care Pulmonology",
+          "Pleural Disease (e.g., Pleural Effusion, Pneumothorax)"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Neurosurgery",
+    "sub_specialties": [
+      {
+        "name": "Neurovascular Neurosurgery",
+        "clinical_interests": [
+          "Aneurysm clipping and coiling",
+          "Arteriovenous malformations (AVM) treatment",
+          "Carotid endarterectomy and stenting",
+          "Cerebral revascularization and bypass surgery",
+          "Management of hemorrhagic stroke",
+          "Moyamoya disease treatment",
+          "Cavernous malformations and dural arteriovenous fistulas"
+        ]
+      },
+      {
+        "name": "Pediatric Neurosurgery",
+        "clinical_interests": [
+          "Congenital brain and spine malformations",
+          "Hydrocephalus management",
+          "Pediatric brain tumors",
+          "Craniosynostosis repair and craniofacial reconstruction",
+          "Epilepsy surgery in children",
+          "Management of cerebral palsy and movement disorders in children",
+          "Pediatric traumatic brain injury (TBI) care"
+        ]
+      },
+      {
+        "name": "Skull Base Neurosurgery",
+        "clinical_interests": [
+          "Skull base tumors",
+          "Pituitary adenomas and other pituitary tumors",
+          "Orbital and optic nerve decompression",
+          "Endoscopic skull base surgery",
+          "Cranial nerve decompression",
+          "Reconstruction of the skull base after tumor removal"
+        ]
+      },
+      {
+        "name": "Spine Neurosurgery",
+        "clinical_interests": [
+          "Degenerative spine disease",
+          "Spinal deformities",
+          "Minimally invasive spine surgery",
+          "Spinal cord and spinal column tumors",
+          "Traumatic spine injuries",
+          "Complex spinal reconstruction and stabilization",
+          "Management of spinal infections"
+        ]
+      },
+      {
+        "name": "Functional Neurosurgery",
+        "clinical_interests": [
+          "Deep brain stimulation (DBS) for movement disorders",
+          "Epilepsy surgery",
+          "Pain management",
+          "Surgical management of spasticity",
+          "Trigeminal neuralgia treatment",
+          "Obsessive-compulsive disorder (OCD) and other psychiatric disorders"
+        ]
+      },
+      {
+        "name": "Neuro-oncology",
+        "clinical_interests": [
+          "Brain tumor resection",
+          "Awake craniotomy and intraoperative brain mapping",
+          "Endoscopic tumor resection for intraventricular tumors",
+          "Stereotactic radiosurgery",
+          "Spine tumor management",
+          "Management of primary central nervous system lymphomas",
+          "Neuro-oncological care in pediatric patients"
+        ]
+      },
+      {
+        "name": "Trauma Neurosurgery",
+        "clinical_interests": [
+          "Acute management of traumatic brain injury (TBI)",
+          "Decompressive craniectomy for severe brain swelling",
+          "Management of epidural and subdural hematomas",
+          "Spinal fractures and stabilization procedures",
+          "Complex craniofacial trauma repair",
+          "Surgical management of penetrating brain injuries",
+          "Long-term care and rehabilitation of trauma patients"
+        ]
+      },
+      {
+        "name": "Peripheral Nerve Surgery",
+        "clinical_interests": [
+          "Nerve entrapment syndromes",
+          "Brachial plexus injury repair",
+          "Peripheral nerve tumors",
+          "Nerve grafting and nerve transfer surgery",
+          "Management of traumatic nerve injuries",
+          "Pain syndromes related to nerve damage",
+          "Peripheral nerve decompression for diabetic neuropathy"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Nutrition",
+    "sub_specialties": [
+      {
+        "name": "General Nutrition Support",
+        "clinical_interests": [
+          "Home Enteral Tube Feeding",
+          "Parenteral Nutrition",
+          "Nutrition Support For Oncology And Neurology",
+          "Nutritional Deficiencies",
+          "Nutritional Support Of Patients With Cancer, Swallowing Difficulties Or Neurological Impairment Such As Parkinson's Disease And Dementia",
+          "Cancer Nutrition",
+          "Sports Nutrition",
+          "Women\u2019s Health Guidance During Pregnancy",
+          "Women\u2019s Health (Peri and Post-Menopausal)"
+        ]
+      },
+      {
+        "name": "Pediatric Nutrition",
+        "clinical_interests": [
+          "Coeliac Disease",
+          "Diabetes Mellitus",
+          "Childhood Obesity",
+          "Faltering Growth",
+          "Nutritional Deficiencies",
+          "Parenteral Nutrition"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Nutrition",
+        "clinical_interests": [
+          "Inflammatory Bowel Disease",
+          "Coeliac Disease (Adults)",
+          "Irritable Bowel Syndrome",
+          "Gastrointestinal Disorders Nutrition"
+        ]
+      },
+      {
+        "name": "Metabolic and Chronic Disease Nutrition",
+        "clinical_interests": [
+          "Diabetes Mellitus",
+          "Dietary Management Of Elevated Cholesterol",
+          "Cardiovascular Health",
+          "Weight Management"
+        ]
+      },
+      {
+        "name": "Nutrition",
+        "clinical_interests": [
+          "Clinical Nutrition and Dietetics",
+          "Obesity Management and Metabolic Health"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Obstetrics and Gynecology",
+    "sub_specialties": [
+      {
+        "name": "General Gynecology",
+        "clinical_interests": [
+          "Abnormal Uterine Bleeding",
+          "Adenomyosis",
+          "Annual Examinations and Complex Gynecology",
+          "Benign Gynecology",
+          "Chronic Pelvic Pain",
+          "Dysmenorrhoea (Period Pain)",
+          "Endometriosis",
+          "Fibroids",
+          "Genital and Sexual Pain Disorders",
+          "Heavy Menstrual Bleeding",
+          "Hysterectomy \u2013 Laparoscopic/Open and Vaginal",
+          "Hysteroscopy \u2013 Diagnostic and Therapeutic",
+          "Interstitial Cystitis",
+          "Menstrual Disorders",
+          "Minimal Access Surgery",
+          "Neuropelveology",
+          "Pelvic Organ Prolapse",
+          "Pelvic Pain",
+          "Stress Urinary Incontinence",
+          "Vulval Disorders",
+          "Vulvodynia"
+        ]
+      },
+      {
+        "name": "Gynecologic Oncology",
+        "clinical_interests": [
+          "Abnormal Smear Test",
+          "Cervical Cancer",
+          "Colposcopy",
+          "Endometrial Cancer",
+          "Gynecologic Oncology",
+          "Minimal Invasive Surgery for Gynecologic Malignancy",
+          "Ovarian Cancer",
+          "Pre-Invasive Disease of the Vulva, Vagina, and Cervix",
+          "Vaginal Cancer",
+          "Vulval Cancer and Reconstructive Surgery"
+        ]
+      },
+      {
+        "name": "Fertility and Reproductive Medicine",
+        "clinical_interests": [
+          "Advanced Fertility Ultrasound",
+          "Female Infertility",
+          "Intracytoplasmic Sperm Injection (ICSI)",
+          "IVF",
+          "Male Infertility Management",
+          "Oncofertility and Fertility-Preserving Surgery in Cancer",
+          "Reproductive Endocrinology",
+          "Treatment of PCOS"
+        ]
+      },
+      {
+        "name": "Maternal-Fetal Medicine",
+        "clinical_interests": [
+          "Birth Defects",
+          "Down Syndrome",
+          "Fetal Acidemia",
+          "Fetal Medicine",
+          "High-Risk Pregnancies",
+          "Maternal-Fetal Medicine",
+          "Obesity and Weight Gain During Pregnancy",
+          "Placenta Accreta Spectrum",
+          "Preeclampsia",
+          "Prenatal Diagnosis & Ultrasound",
+          "Preterm Labor",
+          "Recurrent Pregnancy Loss",
+          "Thrombophilia and Pregnancy",
+          "Twin-Twin Transfusion Syndrome"
+        ]
+      },
+      {
+        "name": "Menopause Management",
+        "clinical_interests": [
+          "Aging",
+          "Menopausal Care",
+          "Replacement Therapy (HRT)"
+        ]
+      },
+      {
+        "name": "Gynecologic Surgery",
+        "clinical_interests": [
+          "Advanced Laparoscopic Gynaecological (Key-Hole) Surgery",
+          "Complex Benign Gynaecological Conditions",
+          "Fibroid Removal/Myomectomy",
+          "In-Office Gynecologic Surgery",
+          "Robotic Surgery"
+        ]
+      },
+      {
+        "name": "Urogynecology",
+        "clinical_interests": [
+          "Incontinence",
+          "Prolapse"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Obstetrics And Gynecology",
+    "sub_specialties": [
+      {
+        "name": "Obstetrics And Gynecology",
+        "clinical_interests": [
+          "Maternal-Fetal Medicine",
+          "Reproductive Endocrinology And Infertility",
+          "Female Pelvic Medicine And Reconstructive Surgery",
+          "Minimally Invasive Gynecologic Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Oncology",
+    "sub_specialties": [
+      {
+        "name": "Hematologic Malignancies",
+        "clinical_interests": [
+          "Acute Myeloid and Lymphoblastic Leukemia",
+          "B-Cell Lymphoma",
+          "Chronic B-Cell Leukemia (CBCL)",
+          "Chronic Lymphocytic and Myeloid Leukemia",
+          "Hodgkin Lymphoma",
+          "Leukemia",
+          "Lymphoma",
+          "Malignant Hematology",
+          "Myelodysplasia",
+          "Myeloma",
+          "Myeloproliferative Disorder",
+          "Non-Hodgkin Lymphoma",
+          "Small Lymphocytic Lymphoma (SLL)",
+          "Waldenstrom Macroglobulinemia"
+        ]
+      },
+      {
+        "name": "Benign Hematology",
+        "clinical_interests": [
+          "Agranulocytosis",
+          "Anemia",
+          "Benign Blood Conditions",
+          "Chronic Familial Neutropenia",
+          "Clotting Disorders",
+          "Febrile Neutropenia",
+          "Iron Deficiency Anemia"
+        ]
+      },
+      {
+        "name": "Gastrointestinal Oncology",
+        "clinical_interests": [
+          "Anal Cancer",
+          "Biliary Cancer",
+          "Bile Duct Cancer",
+          "Colorectal Cancer",
+          "Familial Colorectal Cancer",
+          "Gallbladder Cancer",
+          "Gastric Cancer",
+          "Gastrointestinal and Liver Cancer",
+          "Hepatic Cancer",
+          "Hepatobiliary Cancers",
+          "Lower GI Cancers",
+          "Oesophagus Cancer",
+          "Pancreatic Cancer",
+          "Pancreatic Neuroendocrine Tumors",
+          "Upper Gastrointestinal Cancers",
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Genitourinary Oncology",
+        "clinical_interests": [
+          "Bladder Cancer",
+          "Genitourinary Cancer",
+          "Germ Cell Tumors",
+          "Kidney Cancer",
+          "Prostate Cancer",
+          "Testicular Cancer",
+          "Urological Cancer"
+        ]
+      },
+      {
+        "name": "Gynecologic Oncology",
+        "clinical_interests": [
+          "Cervical Cancer",
+          "Ovarian Cancer"
+        ]
+      },
+      {
+        "name": "Neuro-Oncology",
+        "clinical_interests": [
+          "Brain and Central Nervous System Tumors",
+          "Brain Metastases",
+          "Brain Tumor Chemotherapy",
+          "Brain Tumor Radiotherapy",
+          "Ependymoma",
+          "Gamma Knife",
+          "Glioblastoma",
+          "Glioma",
+          "MRI Guided Stereotactic Radiotherapy (MR Linac)",
+          "Neuro-Oncology",
+          "Oligodendroglioma",
+          "Optune/Tumor-Treating Fields (TTF)",
+          "Skull Base and Spinal Tumors"
+        ]
+      },
+      {
+        "name": "Head and Neck Oncology",
+        "clinical_interests": [
+          "Head and Neck Neoplasm",
+          "Immunotherapy for Head and Neck Cancers and Melanoma"
+        ]
+      },
+      {
+        "name": "Thoracic Oncology",
+        "clinical_interests": [
+          "Curative Treatment of Lung and Skin Cancer",
+          "Lung Neoplasms",
+          "Lung Neuroendocrine Tumors",
+          "Non-Small Cell Lung Carcinoma",
+          "Small Cell Lung Cancer",
+          "Pulmonary Embolism",
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Skin Oncology",
+        "clinical_interests": [
+          "Melanoma",
+          "Non-Melanoma Skin Cancers",
+          "Skin Cancer",
+          "Skin Melanoma"
+        ]
+      },
+      {
+        "name": "Sarcoma and Bone Oncology",
+        "clinical_interests": [
+          "Bone and Soft Tissue Sarcomas",
+          "Bone Metastases",
+          "Desmoplastic Small Round Cell Tumor",
+          "Orthopedic Oncology",
+          "Sarcoma",
+          "Secondary Tumors in Lung, Bone and Lymph Node",
+          "Novel Agents and Immunotherapy in Sarcomas"
+        ]
+      },
+      {
+        "name": "Pediatric Oncology",
+        "clinical_interests": [
+          "Pediatric Hematology",
+          "Pediatric Metronomic Chemotherapy",
+          "Pediatric Oncology",
+          "Pediatric Radiotherapy",
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Endocrine Oncology",
+        "clinical_interests": [
+          "Pheochromocytoma/Paraganglioma",
+          "Thymic Tumors",
+          "Thyroid and Parathyroid Cancer"
+        ]
+      },
+      {
+        "name": "General Oncology and Supportive Care",
+        "clinical_interests": [
+          "Cancer Immunotherapy",
+          "Cancer Nutrition",
+          "Cancer Screening",
+          "CAR T Cell Therapy",
+          "General Oncology",
+          "Genetic Cancer",
+          "Genetic Counseling in Oncology",
+          "Genetics and Epidemiology of Malignant Tumors",
+          "Innovative Therapies",
+          "Molecular Biology",
+          "Precision/Personalized Therapy",
+          "Supportive Care in Oncology",
+          "Targeted Therapy",
+          "Tumor Treatments",
+          "Biological Therapy"
+        ]
+      },
+      {
+        "name": "Radiotherapy and Radiation Oncology",
+        "clinical_interests": [
+          "External Beam Radiotherapy",
+          "Intensity-Modulated Radiation Therapy (IMRT)",
+          "Proton Beam Therapy",
+          "Proton Radiotherapy",
+          "Radiotherapy",
+          "Radiotherapy and Chemotherapy Techniques",
+          "Radiotherapy for Breast Cancer",
+          "Radiotherapy for Symptom Control in Cancer",
+          "Radiosurgery",
+          "Stereotactic Ablative Radiotherapy (SABR)",
+          "SRS (Stereotactic Radiosurgery)",
+          "Stereotactic Radiation",
+          "Treatment with Cyberknife",
+          "Radiotherapy And Chemotherapy Techniques",
+          "Radiotherapy For Breast Cancer",
+          "Radiotherapy For Symptom Control In Cancer"
+        ]
+      },
+      {
+        "name": "Palliative Care and Symptom Management",
+        "clinical_interests": [
+          "Emergency and Palliative Radiotherapy",
+          "Palliative Care Services",
+          "Palliative Radiotherapy",
+          "Radiotherapy for Symptom Control in Cancer"
+        ]
+      },
+      {
+        "name": "Breast Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Head And Neck Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Hematology-Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Medical Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Musculoskeletal Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Radiation Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      },
+      {
+        "name": "Urologic Oncology",
+        "clinical_interests": [
+          "clinical interest"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Oncology & Neurology",
+    "sub_specialties": [
+      {
+        "name": "Neuro-Oncology",
+        "clinical_interests": [
+          "Brain Tumor Treatment",
+          "Glioblastoma Multiforme"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Oncology & Obstetrics And Gynecology",
+    "sub_specialties": [
+      {
+        "name": "Gynecologic Oncology",
+        "clinical_interests": [
+          "Ovarian Cancer Surgery",
+          "Endometrial Cancer Treatment"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Oncosurgery",
+    "sub_specialties": [
+      {
+        "name": "Breast Surgery",
+        "clinical_interests": [
+          "Breast cancer",
+          "Breast cancer detection",
+          "Breast conservation techniques",
+          "Breast conserving surgery \u2013 \u201ctherapeutic mammoplasty\u201d",
+          "Breast reconstruction",
+          "Breast reconstruction using implant/strattice/acellular dermal matrix",
+          "Breast reduction and augmentation",
+          "Comprehensive breast care",
+          "Cosmetic breast surgery",
+          "Fat transfer/lipo-modelling",
+          "Male breast reduction",
+          "Mastopexy",
+          "Oncoplastic breast surgery"
+        ]
+      },
+      {
+        "name": "Colorectal Surgery",
+        "clinical_interests": [
+          "Colorectal surgery"
+        ]
+      },
+      {
+        "name": "Endocrine Surgery",
+        "clinical_interests": [
+          "Endocrine surgery"
+        ]
+      },
+      {
+        "name": "Foregut Surgery",
+        "clinical_interests": [
+          "Benign and malignant foregut diseases",
+          "Complex GI disorders",
+          "Gastric cancer",
+          "GERD (Gastroesophageal Reflux Disease)",
+          "Hiatal hernia",
+          "Operation on esophagus",
+          "Operation on stomach",
+          "Achalasia"
+        ]
+      },
+      {
+        "name": "Hepatobiliary Surgery",
+        "clinical_interests": [
+          "Malignant tumors of peritoneum",
+          "Operation on liver",
+          "Operation on pancreas",
+          "Pseudomyxoma peritonei",
+          "Sarcoma surgery"
+        ]
+      },
+      {
+        "name": "Minimally Invasive Surgery",
+        "clinical_interests": [
+          "Minimally invasive surgery",
+          "Robotic assisted surgery"
+        ]
+      },
+      {
+        "name": "Radiotherapy",
+        "clinical_interests": [
+          "Hyperthermic intraperitoneal chemotherapy (HIPEC)",
+          "Intraoperative radiation therapy",
+          "Radiotherapy"
+        ]
+      },
+      {
+        "name": "Surgical Oncology",
+        "clinical_interests": [
+          "Chemotherapy",
+          "Surgical oncology"
+        ]
+      },
+      {
+        "name": "Pediatric Surgical Oncosurgery",
+        "clinical_interests": [
+          "Neuroblastoma Surgery",
+          "Wilms Tumor Resection"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Ophthalmology",
+    "sub_specialties": [
+      {
+        "name": "Anterior Segment/Cornea Ophthalmology",
+        "clinical_interests": [
+          "Corneal Grafts",
+          "Corneal Rings",
+          "Keratoconus",
+          "Corneal Infections",
+          "Corneal Ulcers",
+          "Anterior Segment Ocular Coherence Tomography",
+          "Cornea and Ocular Surface Disease and Surgery",
+          "Dry Eye",
+          "Eyelid Inflammation",
+          "Eyelid Cyst Surgery",
+          "Blepharitis",
+          "Eyelid Trauma and Tumors",
+          "Conjunctivitis",
+          "Lacrimal Diseases and Surgery"
+        ]
+      },
+      {
+        "name": "Glaucoma",
+        "clinical_interests": [
+          "Pediatric Glaucoma",
+          "Complex Glaucoma",
+          "High Myopia Glaucoma",
+          "Management of Glaucoma"
+        ]
+      },
+      {
+        "name": "Neuro-Ophthalmology",
+        "clinical_interests": [
+          "Optic Nerve-Related Conditions",
+          "Eye Movement Disorders",
+          "Visual Pathways",
+          "Unexplained Visual Loss",
+          "Electrophysiology",
+          "Nystagmus"
+        ]
+      },
+      {
+        "name": "Ocular Oncology",
+        "clinical_interests": [
+          "Retinoblastoma",
+          "Intraocular Lymphoma",
+          "Uveal Melanoma",
+          "Iris, Ciliary Body, and Choroidal Tumors"
+        ]
+      },
+      {
+        "name": "Oculoplastics/Orbit",
+        "clinical_interests": [
+          "Orbital Fractures and Reconstruction",
+          "Orbital Emphysema",
+          "Functional Eyelid Surgery",
+          "Cosmetic and Reconstructive Surgery",
+          "Orbital Trauma",
+          "Orbital Tumors",
+          "Lacrimal Surgery for Adults and Children",
+          "Eyelid Tumors Surgery",
+          "Eyelid Trauma and Tumors",
+          "Thyroid Eye Disease"
+        ]
+      },
+      {
+        "name": "Cataract",
+        "clinical_interests": [
+          "Cataract Surgery",
+          "Complex Cataract",
+          "Secondary Membranous Cataract Surgery",
+          "Advanced Lens Implants",
+          "Intraocular Lenses",
+          "Diabetic Eye Disease"
+        ]
+      },
+      {
+        "name": "Genetic Ophthalmology",
+        "clinical_interests": [
+          "Applied Eye Genetics",
+          "Stem Cell Transplantation",
+          "Retinitis Pigmentosa",
+          "Leber Congenital Amaurosis",
+          "Stargardt Disease",
+          "Usher Syndrome",
+          "Cone-Rod Dystrophy",
+          "Best Disease (Best Vitelliform Macular Dystrophy)",
+          "X-Linked Retinoschisis",
+          "Achromatopsia"
+        ]
+      },
+      {
+        "name": "Uveitis/Dry Eye",
+        "clinical_interests": [
+          "Uveitis",
+          "Dry Eye",
+          "Allergic Eye Conditions",
+          "Neurotrophic Keratopathy"
+        ]
+      },
+      {
+        "name": "Retina/Uveitis",
+        "clinical_interests": [
+          "Retinal Detachment",
+          "Retinal Vein Occlusions",
+          "Retinal Vasculopathy and Inflammation",
+          "Retinal Laser Surgery",
+          "Macular Degeneration",
+          "Age-Related Macular Degeneration (AMD)",
+          "Macular Edema",
+          "Diabetic Retinopathy",
+          "Macular Neuroretinopathy",
+          "Macular Hole",
+          "Retinitis Pigmentosa",
+          "Rare Retinal Disorders",
+          "Retinal Dystrophies",
+          "Retinal Vascular Disease",
+          "Retinal Vascular Occlusion",
+          "Vitreoretinal Surgery",
+          "Vitreoretinal Complications of Refractive Surgery",
+          "Epiretinal Membrane",
+          "Vitreomacular Traction",
+          "Intra-Vitreal Eye Injections"
+        ]
+      },
+      {
+        "name": "Strabismus/Pediatric Ophthalmology",
+        "clinical_interests": [
+          "Pediatric Cataract Surgery",
+          "Pediatric Corneal Surgery",
+          "Pediatric Glaucoma",
+          "Strabismus Surgery",
+          "Squint Surgery with Adjustable Sutures",
+          "Pediatric Strabismus",
+          "Amblyopia",
+          "Adult Ocular Motility and Strabismus"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Organ Transplantation",
+    "sub_specialties": [
+      {
+        "name": "Organ Transplantation",
+        "clinical_interests": [
+          "Organ Transplantation"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Orthopedics",
+    "sub_specialties": [
+      {
+        "name": "Hip and Pelvis",
+        "clinical_interests": [
+          "Acetabular Fractures",
+          "Acetabular/Femoral Osteotomies",
+          "Complex Hip and Pelvis Reconstruction",
+          "Fracture/Dislocation Treatment of Pelvis, Hip, and Femur",
+          "General Hip Surgery",
+          "Hip Arthroscopy",
+          "Hip Disorders (Including Hip Dysplasia, Impingement, and Osteoarthritis)",
+          "Hip Preservation Surgery",
+          "Hip Replacement",
+          "Pelvic Osteotomies",
+          "Pelvic Ring Fractures and Injuries",
+          "Psoas Impingement",
+          "Resurfacing Hip Joints",
+          "Trochanteric Pain Syndrome",
+          "Young Adult Hip Pain and Surgery"
+        ]
+      },
+      {
+        "name": "Knee",
+        "clinical_interests": [
+          "Anterior Cruciate Ligament (ACL) Injuries and Reconstruction",
+          "Arthritis (Including Hip and Knee)",
+          "Cartilage Restoration and Transplantation (Including Knee and Ankle)",
+          "Complex Knee Reconstruction",
+          "Knee Arthroplasty (Including Uni-Compartmental & Total Knee Replacement)",
+          "Knee Injuries (Including Ligament Reconstruction and Sports Injuries)",
+          "Knee Articular Cartilage Repair",
+          "Knee Platelet Rich Plasma (PRP) Injections",
+          "Knee Shock Wave Therapy"
+        ]
+      },
+      {
+        "name": "Foot and Ankle",
+        "clinical_interests": [
+          "Acquired Foot Deformities",
+          "Arthroscopic Ankle Surgery, Lateral Instability, and Achilles Surgery",
+          "Clubfoot and Skeletal Dysplasias",
+          "Osteoarthritis (Including Ankle and Foot)",
+          "Podiatric Medicine and Surgery"
+        ]
+      },
+      {
+        "name": "Shoulder and Elbow",
+        "clinical_interests": [
+          "Advanced Shoulder And Elbow Arthroscopy",
+          "Complex Shoulder Reconstruction",
+          "Disorders and Complex Problems of the Shoulder and Elbow",
+          "Elbow Surgery",
+          "Rotator Cuff Pathology and Repair",
+          "Shoulder Arthroplasty",
+          "Shoulder Dislocation and Instability",
+          "Shoulder Impingement Syndrome",
+          "Shoulder Injuries"
+        ]
+      },
+      {
+        "name": "Hand and Wrist",
+        "clinical_interests": [
+          "Arthritis Of The Hand And Wrist",
+          "Ganglion Management",
+          "Carpal Tunnel Syndrome and Releases",
+          "Dupuytren's Contracture and Surgery",
+          "Hand And Upper Limb Trauma (Including Fractures and Tendon Injury)",
+          "Hand Surgery",
+          "Peripheral Neuropathy and Nerve Injuries",
+          "Repair Of Digital Nerves",
+          "Repair Of Digital Veins And Arteries",
+          "Treatment Of Hands In People With Cerebral Palsy",
+          "Trigger Fingers"
+        ]
+      },
+      {
+        "name": "Spine",
+        "clinical_interests": [
+          "Herniated Disc",
+          "Laminectomy",
+          "Neck And Low Back Injuries",
+          "Spinal Surgeries and Spine Fracture Management",
+          "Scoliosis"
+        ]
+      },
+      {
+        "name": "Pediatric Orthopedic Surgery",
+        "clinical_interests": [
+          "Congenital Hand Surgery",
+          "Developmental Dysplasia of the Hip (DDH)",
+          "Neuromuscular Conditions and Skeletal Dysplasia",
+          "General Paediatric Orthopedic Surgery",
+          "Pediatric Trauma",
+          "Treatment Of Hands In People With Cerebral Palsy"
+        ]
+      },
+      {
+        "name": "Orthopedic Oncology",
+        "clinical_interests": [
+          "Benign Bone Tumours",
+          "Osteosarcoma",
+          "Ewing's Sarcoma",
+          "Metastatic Bone Disease",
+          "Soft Tissue Sarcomas",
+          "Chondrosarcoma",
+          "Tumor Prostheses",
+          "Shoulder And Elbow Surgery"
+        ]
+      },
+      {
+        "name": "Reconstructive Surgery",
+        "clinical_interests": [
+          "Abdominal Wall Reconstruction",
+          "Extremity Reconstruction",
+          "Facial Surgery",
+          "Head & Neck Reconstruction",
+          "Lymphedema and Lymphovenous Bypass Surgery",
+          "Radiation Burn Reconstruction",
+          "Reconstructive Surgery For Upper Extremity Traumatic And Arthritic Conditions"
+        ]
+      },
+      {
+        "name": "Plastic Surgery",
+        "clinical_interests": [
+          "Upper Extremity Plastic Reconstruction",
+          "Lower Extremity Plastic Reconstruction",
+          "Cosmetic Surgery"
+        ]
+      },
+      {
+        "name": "Sports Medicine",
+        "clinical_interests": [
+          "Cartilage Restoration and Transplantation (Including Knee and Ankle)",
+          "Conservative Management Of Orthopaedic Injuries",
+          "Knee Injuries (Including Ligament Reconstruction and Sports Injuries)",
+          "Sports Knee and Hip Preservation Surgery",
+          "Sports Traumatology Surgery"
+        ]
+      },
+      {
+        "name": "Trauma Surgery",
+        "clinical_interests": [
+          "Complex Trauma",
+          "Fracture/Dislocation Treatment of Pelvis, Hip, and Femur",
+          "Limb Salvage",
+          "Mangled Extremities",
+          "Spinal Surgeries and Spine Fracture Management"
+        ]
+      },
+      {
+        "name": "Trauma and Reconstruction",
+        "clinical_interests": [
+          "Orthopedic Trauma",
+          "Joint Replacement (Arthroplasty)"
+        ]
+      },
+      {
+        "name": "Joint Replacement and Arthroplasty",
+        "clinical_interests": [
+          "Hand Surgery",
+          "Hip And Knee Surgery",
+          "Foot And Ankle Surgery"
+        ]
+      },
+      {
+        "name": "Specialized Orthopedic Surgery",
+        "clinical_interests": [
+          "Spinal Surgery",
+          "Pediatric Orthopedics",
+          "Orthopedic Oncology"
+        ]
+      },
+      {
+        "name": "Pediatric Orthopedics",
+        "clinical_interests": [
+          "Reconstruction"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Pediatric Neurology",
+    "sub_specialties": [
+      {
+        "name": "Neurovascular Disorders",
+        "clinical_interests": [
+          "Pediatric Stroke",
+          "Moyamoya Disease",
+          "Cerebral Arteriovenous Malformations",
+          "Cerebral Sinovenous Thrombosis",
+          "Neurovascular Anomalies"
+        ]
+      },
+      {
+        "name": "Epilepsy and Seizure Disorders",
+        "clinical_interests": [
+          "Pediatric Epilepsy",
+          "Infantile Spasms (West Syndrome)",
+          "Lennox-Gastaut Syndrome",
+          "Febrile Seizures",
+          "Absence Epilepsy",
+          "Epileptic Encephalopathies",
+          "Dravet Syndrome",
+          "Temporal Lobe Epilepsy"
+        ]
+      },
+      {
+        "name": "Neuromuscular Disorders",
+        "clinical_interests": [
+          "Muscular Dystrophies (Duchenne, Becker)",
+          "Spinal Muscular Atrophy",
+          "Congenital Myopathies",
+          "Myasthenia Gravis",
+          "Charcot-Marie-Tooth Disease",
+          "Guillain-Barr\u00e9 Syndrome"
+        ]
+      },
+      {
+        "name": "Movement Disorders",
+        "clinical_interests": [
+          "Pediatric Dystonia",
+          "Cerebral Palsy",
+          "Pediatric Ataxia",
+          "Tourette Syndrome",
+          "Chorea",
+          "Parkinsonism in Children",
+          "Tics and Tic Disorders"
+        ]
+      },
+      {
+        "name": "Neurogenetic Disorders",
+        "clinical_interests": [
+          "Neurofibromatosis",
+          "Rett Syndrome",
+          "Angelman Syndrome",
+          "Fragile X Syndrome",
+          "Leigh Syndrome",
+          "Mitochondrial Disorders"
+        ]
+      },
+      {
+        "name": "Neurodevelopmental Disorders",
+        "clinical_interests": [
+          "Autism Spectrum Disorders",
+          "Intellectual Disability",
+          "Attention Deficit Hyperactivity Disorder (ADHD)",
+          "Developmental Coordination Disorder",
+          "Speech and Language Disorders"
+        ]
+      },
+      {
+        "name": "Neuroinflammatory and Demyelinating Disorders",
+        "clinical_interests": [
+          "Pediatric Multiple Sclerosis",
+          "Acute Disseminated Encephalomyelitis (ADEM)",
+          "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+          "Autoimmune Encephalitis",
+          "Rasmussen's Encephalitis"
+        ]
+      },
+      {
+        "name": "Headaches and Migraines",
+        "clinical_interests": [
+          "Pediatric Migraine",
+          "Tension-Type Headache",
+          "Cluster Headache",
+          "Daily Headache"
+        ]
+      },
+      {
+        "name": "Neurocritical Care",
+        "clinical_interests": [
+          "Traumatic Brain Injury",
+          "Pediatric Stroke Management",
+          "Status Epilepticus",
+          "Pediatric Coma",
+          "Hypoxic-Ischemic Encephalopathy"
+        ]
+      },
+      {
+        "name": "Cerebral Palsy and Related Disorders",
+        "clinical_interests": [
+          "Spastic Cerebral Palsy",
+          "Dyskinetic Cerebral Palsy",
+          "Ataxic Cerebral Palsy",
+          "Mixed Cerebral Palsy",
+          "Hemiplegic Cerebral Palsy"
+        ]
+      },
+      {
+        "name": "Pediatric Brain and Spinal Cord Tumors",
+        "clinical_interests": [
+          "Medulloblastoma",
+          "Gliomas (Low-Grade, High-Grade)",
+          "Ependymoma",
+          "Brainstem Gliomas",
+          "Craniopharyngioma",
+          "Spinal Cord Tumors"
+        ]
+      },
+      {
+        "name": "Neonatal Neurology",
+        "clinical_interests": [
+          "Hypoxic-Ischemic Encephalopathy",
+          "Neonatal Seizures",
+          "Neonatal Stroke",
+          "Congenital Neurological Anomalies"
+        ]
+      },
+      {
+        "name": "Peripheral Nerve Disorders",
+        "clinical_interests": [
+          "Pediatric Neuropathies",
+          "Brachial Plexus Injury",
+          "Hereditary Sensory and Autonomic Neuropathies",
+          "Bell\u2019s Palsy in Children"
+        ]
+      },
+      {
+        "name": "Metabolic and Mitochondrial Disorders",
+        "clinical_interests": [
+          "Lysosomal Storage Diseases",
+          "Peroxisomal Disorders",
+          "Mitochondrial Encephalomyopathies"
+        ]
+      },
+      {
+        "name": "Sleep Disorders",
+        "clinical_interests": [
+          "Pediatric Insomnia",
+          "Sleep Apnea in Children",
+          "Restless Legs Syndrome",
+          "Narcolepsy in Children",
+          "Parasomnias"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Pediatric Surgery",
+    "sub_specialties": [
+      {
+        "name": "General Pediatric Surgery",
+        "clinical_interests": [
+          "Anorectal malformations",
+          "Bowel obstruction in children",
+          "Constipation",
+          "General pediatric surgery",
+          "Minimally invasive general surgery",
+          "Pediatric hernia repair",
+          "Surgery of congenital anomalies"
+        ]
+      },
+      {
+        "name": "Neonatal Surgery",
+        "clinical_interests": [
+          "Neonatal surgery"
+        ]
+      },
+      {
+        "name": "Pediatric Gastrointestinal Surgery",
+        "clinical_interests": [
+          "Pediatric gastrointestinal surgery",
+          "Intestinal obstruction",
+          "Upper and lower gastrointestinal minimally invasive surgery"
+        ]
+      },
+      {
+        "name": "Pediatric Oncology",
+        "clinical_interests": [
+          "Pediatric oncology",
+          "Pediatric surgical oncology",
+          "Wilms tumor"
+        ]
+      },
+      {
+        "name": "Pediatric Trauma Surgery",
+        "clinical_interests": [
+          "Pediatric trauma management"
+        ]
+      },
+      {
+        "name": "Pediatric Urology",
+        "clinical_interests": [
+          "Pediatric urology"
+        ]
+      },
+      {
+        "name": "Prenatal Surgery",
+        "clinical_interests": [
+          "Fetal nutrition",
+          "Prenatal counselling"
+        ]
+      },
+      {
+        "name": "Vascular Surgery",
+        "clinical_interests": [
+          "Congenital vascular anomalies"
+        ]
+      },
+      {
+        "name": "Pediatric ICU",
+        "clinical_interests": [
+          "Pediatric ICU"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Pediatrics",
+    "sub_specialties": [
+      {
+        "name": "Pediatric Cardiology",
+        "clinical_interests": [
+          "Atrial septal defect (ASD)",
+          "General pediatric cardiology",
+          "Pediatric cardiac genetics",
+          "Congenital heart disease",
+          "Heart failure in pediatric patients",
+          "Pacemaker therapy in children and adolescents",
+          "Fetal cardiology",
+          "Pediatric intensive care medicine",
+          "Pediatric cardiac intensive care",
+          "Cardiac imaging techniques, particularly cardiovascular magnetic resonance",
+          "Heart transplantation for congenital heart disease"
+        ]
+      },
+      {
+        "name": "Pediatric Endocrinology",
+        "clinical_interests": [
+          "Addison disease",
+          "Adolescent and pediatric endocrinology",
+          "Adrenal disorders",
+          "Bone fragility",
+          "Congenital hyperinsulinism",
+          "Cushing syndrome",
+          "Diabetes mellitus (Type 1 DM)",
+          "Diabetes mellitus (Type 2 DM)",
+          "Disorders of pubertal development",
+          "Disorders of sexual development (DSD)",
+          "Disorders of vitamin D and IGF-I metabolism",
+          "Eating disorders",
+          "Gender identity problems in children and adolescents",
+          "Genetic endocrine disorders",
+          "Growth disorders (such as growth hormone deficiencies)",
+          "Hypophosphatasia",
+          "Klinefelter syndrome",
+          "Metabolic bone disorders",
+          "Obesity and its related metabolic complications in children and adolescents",
+          "Osteogenesis imperfecta",
+          "Pituitary gland related conditions",
+          "Precocious puberty",
+          "Puberty disorders",
+          "Rare growth disorders",
+          "Sleep disorders",
+          "Thyroid and parathyroid related conditions",
+          "Vitamin D and calcium deficiency rickets"
+        ]
+      },
+      {
+        "name": "Pediatric Gastroenterology",
+        "clinical_interests": [
+          "Crohn's disease",
+          "Gastroesophageal reflux",
+          "Peptic ulcers",
+          "Chronic stomach pain",
+          "Constipation",
+          "Vomiting",
+          "Functional GI disorders including irritable bowel syndrome",
+          "Coeliac disease",
+          "Food intolerance",
+          "Nutrition and intestinal failure (short bowel syndrome, congenital and acquired chronic diarrhea, motility problems)",
+          "Upper and lower GI endoscopy",
+          "Inflammatory bowel disease",
+          "Eosinophilic oesophagitis and eosinophilic gastrointestinal (GI) diseases",
+          "Infectious diseases in pediatrics",
+          "Infectious and inflammatory arthritis in children",
+          "GI problems associated with neurodisability"
+        ]
+      },
+      {
+        "name": "Pediatric Genetics",
+        "clinical_interests": [
+          "General pediatrics",
+          "Rare disease",
+          "Pediatric neurogenetics",
+          "Rare bone diseases",
+          "Rare genetic diseases",
+          "Neurodevelopmental disorders of genetic syndromic and non-syndromic origin",
+          "Genetic epilepsies",
+          "Dysmorphic syndromes",
+          "Congenital brain anomalies",
+          "Neurodevelopmental disorders",
+          "Lysosomal storage diseases",
+          "Skeletal dysplasias",
+          "Carrier screening",
+          "Prevention of thalassemia hemoglobinopathies",
+          "Prenatal and preimplantation testing",
+          "Inherited genetic disorders",
+          "Congenital childhood malformations",
+          "Spinal muscular atrophy",
+          "Pediatric neuro inflammatory disorders",
+          "Hemoglobinopathy",
+          "Sickle cell disease",
+          "Rare diseases of childhood",
+          "Metabolic bone diseases",
+          "Inborn errors of metabolism",
+          "Rare genetic disorders"
+        ]
+      },
+      {
+        "name": "Pediatric Hematology/Oncology",
+        "clinical_interests": [
+          "Leukemias",
+          "Traditional and innovative chemotherapy agents",
+          "Lymphomas",
+          "Periodic fever",
+          "Autoinflammatory syndromes",
+          "Rheumatologic conditions like connective tissue disorders and SLE",
+          "Behcet's disease",
+          "Inflammatory arthritis in children",
+          "Pediatric systemic pain and inflammatory syndromes",
+          "Pediatric immunology"
+        ]
+      },
+      {
+        "name": "General Pediatrics",
+        "clinical_interests": [
+          "Routine child health screenings and preventive care",
+          "Vaccinations and immunizations",
+          "Management of common infections",
+          "Growth and developmental assessments",
+          "Nutrition and obesity prevention",
+          "Acute care for minor injuries and illnesses"
+        ]
+      },
+      {
+        "name": "Cardiology",
+        "clinical_interests": [
+          "Congenital heart disease",
+          "Heart murmurs",
+          "Arrhythmias",
+          "Cardiomyopathies",
+          "Heart failure management",
+          "Hypertension in children"
+        ]
+      },
+      {
+        "name": "Endocrinology",
+        "clinical_interests": [
+          "Growth disorders",
+          "Type 1 and Type 2 diabetes management",
+          "Thyroid disorders",
+          "Puberty disorders",
+          "Adrenal disorders",
+          "Bone metabolism disorders"
+        ]
+      },
+      {
+        "name": "Gastroenterology And Hepatology",
+        "clinical_interests": [
+          "Inflammatory bowel disease (IBD)",
+          "Gastroesophageal reflux disease (GERD)",
+          "Celiac disease and food allergies",
+          "Functional gastrointestinal disorders",
+          "Pediatric liver diseases",
+          "Nutritional disorders and malabsorption syndromes"
+        ]
+      },
+      {
+        "name": "Nephrology",
+        "clinical_interests": [
+          "Pediatric hypertension",
+          "Nephrotic syndrome and glomerulonephritis",
+          "Congenital kidney abnormalities",
+          "Acute kidney injury (AKI)",
+          "Chronic kidney disease (CKD)",
+          "Urinary tract infections and vesicoureteral reflux"
+        ]
+      },
+      {
+        "name": "Neurology",
+        "clinical_interests": [
+          "Epilepsy and seizure disorders",
+          "Cerebral palsy",
+          "Neurodevelopmental disorders",
+          "Neuromuscular disorders",
+          "Headaches and migraines in children",
+          "Stroke and vascular malformations"
+        ]
+      },
+      {
+        "name": "Pulmonology",
+        "clinical_interests": [
+          "Asthma and allergy-related lung conditions",
+          "Cystic fibrosis management",
+          "Chronic lung disease in premature infants",
+          "Sleep apnea and other sleep-related breathing disorders",
+          "Bronchopulmonary dysplasia",
+          "Respiratory infections"
+        ]
+      },
+      {
+        "name": "Genetics",
+        "clinical_interests": [
+          "Genetic counseling for inherited conditions",
+          "Diagnosis and management of chromosomal abnormalities",
+          "Rare genetic syndromes",
+          "Metabolic disorders",
+          "Prenatal genetic testing and screening",
+          "Epigenetic disorders"
+        ]
+      },
+      {
+        "name": "Hematology",
+        "clinical_interests": [
+          "Sickle cell disease",
+          "Hemophilia and other bleeding disorders",
+          "Pediatric leukemia and lymphoma",
+          "Iron-deficiency anemia and other anemia types",
+          "Bone marrow failure syndromes",
+          "Thalassemias"
+        ]
+      },
+      {
+        "name": "Adolescent Medicine",
+        "clinical_interests": [
+          "Adolescent mental health",
+          "Eating disorders",
+          "Substance abuse and addiction",
+          "Sexual and reproductive health",
+          "Obesity and lifestyle counseling",
+          "Puberty and growth concerns in adolescents"
+        ]
+      },
+      {
+        "name": "Developmental And Behavioral Pediatrics",
+        "clinical_interests": [
+          "Autism Spectrum Disorder (ASD)",
+          "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+          "Developmental Delays",
+          "Learning Disabilities",
+          "Speech and Language Disorders",
+          "Behavioral and Emotional Disorders"
+        ]
+      },
+      {
+        "name": "Others",
+        "clinical_interests": [
+          "others"
+        ]
+      },
+      {
+        "name": "Speech Therapy",
+        "clinical_interests": [
+          "Speech Therapy"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Pediatrics & Allergy & Immunology",
+    "sub_specialties": [
+      {
+        "name": "Rheumatology",
+        "clinical_interests": [
+          "Asthma and Allergic Rhinitis",
+          "Pediatric Autoimmune Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Physical Medicine",
+    "sub_specialties": [
+      {
+        "name": "Physical Medicine & Rehabilitation",
+        "clinical_interests": [
+          "Amputee Rehabilitation",
+          "Gait Abnormality",
+          "Musculoskeletal Rehabilitation",
+          "Neuromuscular Disorders",
+          "Spasticity Management",
+          "Traumatic Brain Injury",
+          "Spinal Cord Injuries",
+          "Cognitive Rehabilitation",
+          "Post-Traumatic Amnesia",
+          "Physical Therapy",
+          "Life Care Planning",
+          "Compensation and Pension Evaluation"
+        ]
+      },
+      {
+        "name": "Pain Management",
+        "clinical_interests": [
+          "Interventional Pain Management",
+          "Nerve Blocks",
+          "Neuropathic Pain",
+          "Fluoroscopic Guided Lumbar Spine Injections",
+          "Intra-Articular Joint Injections",
+          "Botulinum Toxin Injection",
+          "Spinal Neuromodulation",
+          "Chemodenervation",
+          "Cognitive and Behavioral Therapy"
+        ]
+      },
+      {
+        "name": "Musculoskeletal Medicine",
+        "clinical_interests": [
+          "Arthritis",
+          "Back Pain",
+          "Degenerative Disc Disease & Herniated Discs",
+          "Disorders Of The Thoracic Spine",
+          "Joint Arthroplasty",
+          "Kyphoplasty",
+          "Limb Preservation",
+          "Musculoskeletal Injuries",
+          "Spinal Stenosis",
+          "Spine Fracture Management",
+          "Tendonitis",
+          "Conservative Therapy Of Knee",
+          "Spine and Sports Medicine",
+          "Orthopedic Care",
+          "Electrodiagnostic Medicine",
+          "Electromyography (EMG)",
+          "Peripheral Nerve Stimulation",
+          "Fracture/Dislocation Treatment",
+          "Osteopathic Manipulation"
+        ]
+      },
+      {
+        "name": "Neurology/Neurorehabilitation",
+        "clinical_interests": [
+          "Brain Injury",
+          "Neuromuscular Disorders",
+          "Traumatic Brain Injury",
+          "Cognitive Rehabilitation",
+          "Neurobehavioral Sequelae of Traumatic Brain Injury",
+          "Hemi-Spatial Neglect",
+          "Spinal Cord Injuries",
+          "Spinal Neuromodulation",
+          "Peripheral Neuropathies",
+          "Neuropathic Pain",
+          "Post-Traumatic Amnesia"
+        ]
+      },
+      {
+        "name": "Sports Medicine",
+        "clinical_interests": [
+          "Concussion",
+          "Spine and Sports Medicine",
+          "Sports Training Evaluation",
+          "Musculoskeletal Injuries",
+          "Fracture/Dislocation Treatment",
+          "Tendonitis"
+        ]
+      },
+      {
+        "name": "Palliative Care",
+        "clinical_interests": [
+          "Palliative Medicine",
+          "Hospice Medicine",
+          "Pain Management"
+        ]
+      },
+      {
+        "name": "Occupational & Environmental Medicine",
+        "clinical_interests": [
+          "Occupational & Environmental Health",
+          "Aerospace Medicine",
+          "Cold Weather Medicine",
+          "Diving Medicine",
+          "Hyperbaric Medicine"
+        ]
+      },
+      {
+        "name": "Others",
+        "clinical_interests": [
+          "Obesity Medicine",
+          "Regenerative Medicine",
+          "Gerontology",
+          "Long Covid",
+          "Chronic Fatigue Syndrome",
+          "Medically Unexplained Conditions",
+          "Tropical Medicine",
+          "Interventional Spine Procedures",
+          "Life Care Planning"
+        ]
+      },
+      {
+        "name": "Physical Medicine",
+        "clinical_interests": [
+          "Neuromuscular Medicine",
+          "Musculoskeletal Medicine",
+          "Pain Medicine",
+          "Pediatric Rehabilitation Medicine"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Plastic Surgery",
+    "sub_specialties": [
+      {
+        "name": "Aesthetic and Functional Surgery",
+        "clinical_interests": [
+          "Cosmetic Surgery",
+          "Reconstructive Surgery"
+        ]
+      },
+      {
+        "name": "Aesthetic Surgery",
+        "clinical_interests": [
+          "Abdominoplasty",
+          "Aesthetic Plastic Surgery",
+          "Aesthetic Surgery of the Breast and Body",
+          "Arm Lift",
+          "Blepharoplasty (Eyelid Surgery)",
+          "Body Contouring",
+          "Brachioplasty",
+          "Breast Augmentation",
+          "Cosmetic Breast Surgeries",
+          "Cosmetic Facial Surgery",
+          "Facelift",
+          "Facial Aesthetic Procedures",
+          "Fat Grafting",
+          "Gynaecomastia",
+          "Hair Restoration",
+          "Mommy Makeover",
+          "Neck Lift",
+          "Otoplasty",
+          "Rhinoplasty"
+        ]
+      },
+      {
+        "name": "Breast Surgery",
+        "clinical_interests": [
+          "Breast Augmentation",
+          "Breast Cancer Reconstruction",
+          "Breast Implants",
+          "Cosmetic Breast Surgeries",
+          "Reconstructive Surgery of the Breast, Trunk, and Extremities"
+        ]
+      },
+      {
+        "name": "Reconstructive Surgery",
+        "clinical_interests": [
+          "Burns",
+          "Cancer and Oncologic Reconstruction",
+          "Chest Wall Reconstruction",
+          "Complex Reconstructive Surgery",
+          "Congenital Malformations",
+          "Craniofacial Surgery",
+          "Face Reconstruction",
+          "Facial Fractures",
+          "Facial Trauma Management",
+          "Flap Surgery",
+          "Hand Reconstruction",
+          "Head and Neck Reconstruction",
+          "Lower Extremity Reconstruction",
+          "Lumbar Defect Reconstruction",
+          "Microsurgical Reconstruction",
+          "Orbit Reconstruction",
+          "Perineal Reconstruction",
+          "Reconstruction and Rehabilitation",
+          "Reconstruction of Jaw Bones",
+          "Reconstructive Surgery for Facial Defects",
+          "Reconstructive Surgery of the Breast, Trunk, and Extremities",
+          "Sarcoma (Limb/Trunk) Reconstruction",
+          "Scalp Defects Reconstruction",
+          "Total Penile Reconstruction",
+          "Total Soft-Tissue Chin Reconstruction"
+        ]
+      },
+      {
+        "name": "Hand Surgery",
+        "clinical_interests": [
+          "Carpal/Cubital Tunnel Syndrome",
+          "De Quervain\u2019s Tenosynovitis",
+          "Dupuytren\u2019s Contracture (Including Xiaflex Injections)",
+          "Hand and Upper Extremity Surgery",
+          "Hand and Wrist Fractures (Distal Radius and Ulna, Scaphoid, Carpal Bones, Metacarpals)",
+          "Hand Reconstruction",
+          "Hand Surgery",
+          "Hand Transplant",
+          "Hand Tumors, Masses, or Ganglion",
+          "Nerve Injury (Upper or Lower Extremities)",
+          "Nerve Reconstruction",
+          "Nerve Surgery",
+          "Peripheral Nerve Microsurgery",
+          "Peripheral Nerve Regeneration",
+          "Raynaud\u2019s Phenomenon",
+          "Scaphoid Non-Union",
+          "Scleroderma of the Hands",
+          "Tendon Injuries",
+          "Thumb CMC Arthroplasty",
+          "Triangular Fibrocartilage Complex Tear (TFCC)",
+          "Trigger Finger",
+          "WALANT (Wide Awake Local Anesthesia No Tourniquet Surgery)",
+          "Wrist Arthroscopy",
+          "Wrist Fusion (Partial or Complete)",
+          "Wrist Ligamentous Injury"
+        ]
+      },
+      {
+        "name": "Craniofacial Surgery",
+        "clinical_interests": [
+          "Craniofacial Surgery",
+          "Facial Fractures",
+          "Facial Trauma Management",
+          "Jaw Surgery",
+          "Maxillofacial Surgery",
+          "Oral Surgery",
+          "Oropharyngeal Surgery",
+          "Pediatric Oral Surgery",
+          "Pediatric Plastic Surgery",
+          "Reconstruction of Jaw Bones",
+          "Targeted Muscle Reinnervation (TMR)",
+          "Treatment of Cleft Lip and Palate"
+        ]
+      },
+      {
+        "name": "Oral and Maxillofacial Surgery",
+        "clinical_interests": [
+          "Apicectomies and Endodontic Surgeries",
+          "Bone Grafting",
+          "Dental Implants",
+          "Jaw Pain Management",
+          "Jaw Surgery",
+          "Mandibulotomy Fixation",
+          "Management of Benign Tumors and Cysts of the Jaws",
+          "Management of Lingual and Inferior Dental Nerve Injuries",
+          "Orthodontic Surgeries (Canine Exposure, Bonding, Supernumerary Teeth Management)",
+          "Pediatric Oral Surgery",
+          "Wisdom Teeth Extraction"
+        ]
+      },
+      {
+        "name": "Microsurgery",
+        "clinical_interests": [
+          "Microsurgical Reconstruction",
+          "Peripheral Nerve Microsurgery",
+          "Peripheral Nerve Regeneration",
+          "Lymphoedema Microsurgery"
+        ]
+      },
+      {
+        "name": "Oncologic Surgery",
+        "clinical_interests": [
+          "Breast Cancer Reconstruction",
+          "Cancer and Oncologic Reconstruction",
+          "Melanoma and Non-Melanoma Skin Cancer Resection and Reconstruction",
+          "Sarcoma (Limb/Trunk) Reconstruction",
+          "Skin Cancer"
+        ]
+      },
+      {
+        "name": "Nerve Surgery",
+        "clinical_interests": [
+          "Carpal/Cubital Tunnel Syndrome",
+          "Nerve Injury (Upper or Lower Extremities)",
+          "Nerve Reconstruction",
+          "Nerve Surgery",
+          "Peripheral Nerve Microsurgery",
+          "Peripheral Nerve Regeneration",
+          "Scleroderma of the Hands"
+        ]
+      },
+      {
+        "name": "Miscellaneous",
+        "clinical_interests": [
+          "Conscious Sedation",
+          "Dermabrasion",
+          "Salivary Gland Disease",
+          "Salivary Gland Tumors and Stones"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Psychiatry",
+    "sub_specialties": [
+      {
+        "name": "Psychiatry",
+        "clinical_interests": [
+          "Addiction Medicine",
+          "Anxiety Disorders",
+          "Sexual Health",
+          "Mood Disorders",
+          "Psychosis And Schizophrenia",
+          "Rehabilitation Psychiatry",
+          "Personality Disorders",
+          "Child And Adolescent Psychiatry",
+          "Sleep Disorders",
+          "Eating Disorders",
+          "Trauma And Dissociative Disorders",
+          "Geriatric Psychiatry",
+          "Psychopharmacology",
+          "Obsessive Compulsive Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Rheumatology",
+    "sub_specialties": [
+      {
+        "name": "Allergy and Immunology",
+        "clinical_interests": [
+          "Allergic conditions"
+        ]
+      },
+      {
+        "name": "Autoimmune Diseases",
+        "clinical_interests": [
+          "Ankylosing spondylitis/inflammatory spondyloarthritis",
+          "Behcet's disease",
+          "Dermatomyositis",
+          "Inflammatory arthritis",
+          "Inflammatory muscle disorders",
+          "Juvenile localized scleroderma",
+          "Myositis",
+          "Psoriasis",
+          "Psoriatic arthritis",
+          "Rheumatoid arthritis & related",
+          "Sarcoidosis",
+          "Scleroderma (systemic sclerosis)",
+          "Seronegative spondyloarthropathies",
+          "Sj\u00f6gren\u2019s syndrome",
+          "Large vessel vasculitis",
+          "Systemic lupus erythematosus",
+          "Vasculitis"
+        ]
+      },
+      {
+        "name": "Connective Tissue Diseases",
+        "clinical_interests": [
+          "Collagen diseases",
+          "Fibromyalgia",
+          "Connective tissue disease-related interstitial lung disease",
+          "Connective tissue diseases (lupus, scleroderma, poly/dermatomyositis)",
+          "Soft tissue and connective tissue diseases",
+          "Soft tissue rheumatism",
+          "Spondyloarthritis",
+          "Systemic sclerosis",
+          "Systemic Lupus Erythematosus (SLE)",
+          "Scleroderma",
+          "Mixed Connective Tissue Disease"
+        ]
+      },
+      {
+        "name": "Genetic-Related Conditions",
+        "clinical_interests": [
+          "Autoinflammatory diseases",
+          "Familial Mediterranean fever",
+          "Gout",
+          "Microcrystalline arthritis (e.g., gout, pseudogout)",
+          "Juvenile localized scleroderma",
+          "Long COVID",
+          "Periodic fever",
+          "Rare bone diseases/hypophosphatasia"
+        ]
+      },
+      {
+        "name": "Inflammatory Arthritis",
+        "clinical_interests": [
+          "Rheumatoid Arthritis",
+          "Psoriatic Arthritis",
+          "Juvenile Idiopathic Arthritis",
+          "Biologic Therapy"
+        ]
+      },
+      {
+        "name": "Spondyloarthropathies",
+        "clinical_interests": [
+          "Ankylosing Spondylitis",
+          "Reactive Arthritis",
+          "Enteropathic Arthritis"
+        ]
+      },
+      {
+        "name": "Bone And Joint Conditions",
+        "clinical_interests": [
+          "Osteoarthritis",
+          "Osteoporosis",
+          "Bone Fractures"
+        ]
+      },
+      {
+        "name": "Muscle And Soft Tissue Disorders",
+        "clinical_interests": [
+          "Myositis",
+          "Tendinitis",
+          "Fibromyalgia"
+        ]
+      },
+      {
+        "name": "Autoimmune Vascular Conditions",
+        "clinical_interests": [
+          "Vasculitis",
+          "Behcet\u2019s Disease",
+          "Giant Cell Arteritis"
+        ]
+      },
+      {
+        "name": "Autoimmune Conditions",
+        "clinical_interests": [
+          "Ankylosing spondylitis/inflammatory spondyloarthritis",
+          "Behcet's disease",
+          "Dermatomyositis",
+          "Inflammatory arthritis",
+          "Inflammatory muscle disorders",
+          "Juvenile localized scleroderma",
+          "Myositis",
+          "Psoriasis",
+          "Psoriatic arthritis",
+          "Rheumatoid arthritis & related",
+          "Sarcoidosis",
+          "Scleroderma (systemic sclerosis)",
+          "Seronegative spondyloarthropathies",
+          "Sj\u00f6gren\u2019s syndrome",
+          "Large vessel vasculitis",
+          "Systemic lupus erythematosus",
+          "Vasculitis"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Speciality",
+    "sub_specialties": [
+      {
+        "name": "Subspeciality",
+        "clinical_interests": [
+          "Clinical Interest English"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Speech Therapy",
+    "sub_specialties": [
+      {
+        "name": "Speech Therapy",
+        "clinical_interests": [
+          "Autism Spectrum Disorder",
+          "Speech Sound Disorders",
+          "Childhood Apraxia of Speech (CAS)",
+          "Developmental Language Disorders",
+          "Assessment and Treatment of Language Disorders"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Spinal surgery",
+    "sub_specialties": [
+      {
+        "name": "Spinal Surgery and Neurosurgery",
+        "clinical_interests": [
+          "Artificial disc replacement",
+          "Complex spinal neurosurgery",
+          "Cranio-cervical pathology",
+          "Degenerative spine",
+          "Disorders of the thoracic spine",
+          "Kyphoplasty",
+          "Kyphosis",
+          "Lordosis",
+          "Lumbar spinal stenosis",
+          "Metastatic spinal cord compression",
+          "Minimally invasive spinal surgery",
+          "Myelopathy",
+          "Neck surgery",
+          "Neurosurgery",
+          "Spinal alignment and posture",
+          "Spinal degeneration",
+          "Spinal fractures",
+          "Spinal fusion",
+          "Spinal infections",
+          "Spinal stenosis",
+          "Spinal surgery",
+          "Spinal tumors",
+          "Spondylolisthesis"
+        ]
+      },
+      {
+        "name": "Orthopedic Spine surgery",
+        "clinical_interests": [
+          "Back conditions and surgery",
+          "Birth defects",
+          "Cervical spine abnormality",
+          "Cervical spondylosis",
+          "Chiropractic and sports medicine",
+          "Hip osteoarthritis",
+          "Hip-spine syndrome",
+          "Joint repair and replacement operations",
+          "Neck pain",
+          "Orthopedic surgery",
+          "Osteoarthritis (hand and wrist)",
+          "Sciatica",
+          "Slipped neck or back discs"
+        ]
+      },
+      {
+        "name": "Musculoskeletal Disorders",
+        "clinical_interests": [
+          "Back pain",
+          "Flatback syndrome",
+          "Neck pain",
+          "Sports injuries",
+          "Traumatology"
+        ]
+      },
+      {
+        "name": "Tumor-Related Conditions",
+        "clinical_interests": [
+          "Chiari malformation",
+          "Spinal tumors"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Spinal Surgery",
+    "sub_specialties": [
+      {
+        "name": "General Spinal Surgery",
+        "clinical_interests": [
+          "Degenerative Disc Disease",
+          "Spinal Fusion and Stabilization"
+        ]
+      },
+      {
+        "name": "Spinal Surgery",
+        "clinical_interests": [
+          "Chiropractic And Sports Medicine",
+          "Neck And Cervical Spine",
+          "Spinal Deformities",
+          "Spinal Infections And Inflammatory Conditions",
+          "Traumatology"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Urology",
+    "sub_specialties": [
+      {
+        "name": "Andrology",
+        "clinical_interests": [
+          "Andropause and HRT",
+          "Erectile dysfunction (ED)",
+          "Low testosterone",
+          "Male fertility",
+          "Male sexual health"
+        ]
+      },
+      {
+        "name": "Endourology",
+        "clinical_interests": [
+          "Endoscopic kidney stone removal",
+          "Percutaneous stone surgery",
+          "Ureteroscopy"
+        ]
+      },
+      {
+        "name": "Female Urology",
+        "clinical_interests": [
+          "Female urinary incontinence",
+          "Minimally invasive procedures for female urinary incontinence and pelvic floor reconstruction",
+          "Overactive bladder",
+          "Pelvic floor prolapse",
+          "Urinary incontinence in women"
+        ]
+      },
+      {
+        "name": "General Urology",
+        "clinical_interests": [
+          "Bladder cancer",
+          "Hematuria",
+          "Kidney stones",
+          "Minimally invasive urology",
+          "Nighttime urination",
+          "Prostate disorders",
+          "Recurrent/complicated urinary tract infection",
+          "Urinary infections",
+          "Urinary retention",
+          "Urinary tract cancer",
+          "Urolithiasis",
+          "Prostate Health",
+          "Urinary Tract Infection Management"
+        ]
+      },
+      {
+        "name": "Laparoscopic and Robotic Urology",
+        "clinical_interests": [
+          "Laparoscopic surgery",
+          "Laparoscopy and robotics",
+          "Robotic surgery"
+        ]
+      },
+      {
+        "name": "Neuro-urology",
+        "clinical_interests": [
+          "Neurogenic bladder",
+          "Neurogenic voiding dysfunction",
+          "Neuro-urology"
+        ]
+      },
+      {
+        "name": "Pediatric Urology",
+        "clinical_interests": [
+          "Bladder exstrophy",
+          "Congenital bladder and ureteral abnormalities",
+          "Hypospadias",
+          "Undescended testicles",
+          "Vesicoureteral Reflux",
+          "Pediatric Stone Disease"
+        ]
+      },
+      {
+        "name": "Pelvic Medicine & Reconstructive Surgery",
+        "clinical_interests": [
+          "Bladder reconstruction",
+          "Pelvic reconstructive surgery"
+        ]
+      },
+      {
+        "name": "Sexual Medicine",
+        "clinical_interests": [
+          "Erectile dysfunction",
+          "Male and female infertility",
+          "Sexual dysfunction"
+        ]
+      },
+      {
+        "name": "Urologic Oncology",
+        "clinical_interests": [
+          "Kidney cancer",
+          "Kidney tumors",
+          "Prostate cancer",
+          "Testicular cancer"
+        ]
+      }
+    ]
+  },
+  {
+    "specialty": "Vascular Surgery",
+    "sub_specialties": [
+      {
+        "name": "Aortic Surgery",
+        "clinical_interests": [
+          "Abdominal aortic aneurysm (AAA)",
+          "Aortic aneurysms",
+          "Aortic dissection",
+          "Aortic stent graft",
+          "Endovascular aneurysm repair (EVAR)",
+          "Thoracic aortic aneurysm",
+          "Thoracic outlet syndrome (TOS)"
+        ]
+      },
+      {
+        "name": "Carotid Surgery",
+        "clinical_interests": [
+          "Carotid artery disease",
+          "Carotid endarterectomy",
+          "Carotid surgery for stroke",
+          "Cervical carotid disease"
+        ]
+      },
+      {
+        "name": "Endovascular Surgery",
+        "clinical_interests": [
+          "Angioplasty",
+          "Endovascular procedures",
+          "Endovascular surgery",
+          "Endovascular surgery and stents",
+          "Endovenous laser therapy (EVLT)",
+          "Minimally invasive vascular surgery",
+          "Thoracic stenting for dissection and aneurysm"
+        ]
+      },
+      {
+        "name": "Peripheral Vascular Surgery",
+        "clinical_interests": [
+          "Peripheral arterial disease (PAD)",
+          "Peripheral arterial revascularization",
+          "Peripheral arterial surgery",
+          "Peripheral artery disease (PAD)",
+          "Peripheral bypass surgery",
+          "Peripheral vascular disease"
+        ]
+      },
+      {
+        "name": "Phlebology",
+        "clinical_interests": [
+          "Chronic venous disease",
+          "Chronic venous insufficiency",
+          "Deep vein thrombosis (DVT)",
+          "Endovenous laser treatment of varicose veins",
+          "Foam sclerotherapy",
+          "Lymphedema",
+          "Varicose vein procedures",
+          "Varicose veins"
+        ]
+      },
+      {
+        "name": "Vascular Access Surgery",
+        "clinical_interests": [
+          "Dialysis vascular access procedures",
+          "Arteriovenous fistulas and grafts"
+        ]
+      },
+      {
+        "name": "Vascular Investigation",
+        "clinical_interests": [
+          "Doppler studies",
+          "Ultrasound examination of the peripheral vascular system"
+        ]
+      },
+      {
+        "name": "Vascular Surgery",
+        "clinical_interests": [
+          "Angioplasty",
+          "Aortic Surgery",
+          "Carotid Surgery",
+          "Cerebrovascular Surgery",
+          "Endovascular Surgery",
+          "Lymphatic Surgery",
+          "Peripheral Vascular Surgery",
+          "Vascular Diagnostics",
+          "Venous Surgery"
+        ]
+      }
+    ]
+  }
+]

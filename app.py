@@ -18,7 +18,7 @@ with open("clinical_interests.json", "r", encoding="utf-8") as f:
 specialties = sorted(list(set(item["specialty"] for item in dataset if "specialty" in item)))
 
 # -------------------------------
-# 🧠 Core snippet extraction logic
+# 🧠 Improved snippet extraction logic with fallback
 # -------------------------------
 def extract_snippets(query: str, lang="en") -> str:
     try:
@@ -39,16 +39,18 @@ def extract_snippets(query: str, lang="en") -> str:
         for url in links:
             downloaded = trafilatura.fetch_url(url)
 
+            # Fallback to requests + BeautifulSoup if trafilatura fails
             if not downloaded:
-                continue
+                try:
+                    page = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
+                    soup = BeautifulSoup(page.content, "html.parser")
+                    text = soup.get_text(separator="\n")
+                except Exception:
+                    continue
+            else:
+                text = trafilatura.extract(downloaded)
 
-            text = trafilatura.extract(downloaded)
-
-            if not text or len(text.strip()) < 100:
-                soup = BeautifulSoup(downloaded, "html.parser")
-                text = soup.get_text()
-
-            if text:
+            if text and len(text.strip()) > 100:
                 snippets += text.strip() + "\n---\n"
 
         return snippets.strip()
@@ -79,7 +81,7 @@ def map_clinical_interests(text: str, name: str, specialty: str) -> str:
         f"Expert name: Dr. {name}\n"
         f"Specialty: {specialty}\n\n"
         f"Text:\n{text}\n\n"
-        f"Dataset:\n{json_data}"
+        f"Dataset:\n{json.dumps(json_data)}"
     )
 
     completion = openai.ChatCompletion.create(
@@ -98,7 +100,6 @@ def map_clinical_interests(text: str, name: str, specialty: str) -> str:
 # -------------------------------
 st.set_page_config(page_title="Clinical Interest Mapper", page_icon="🎯")
 st.title("🎯 Target Killer: Clinical Interest Edition")
-
 st.markdown("### Your Monthly Target Savior")
 
 with st.form("input_form"):
